@@ -11,10 +11,6 @@ navbar:
     start_here:
       text: "Start here"
       menu:
-        - text: "User guide overview"
-          href: articles/user-guide/index.html
-        - text: "About GlobalArchive"
-          href: articles/user-guide/about.html
         - text: "Using this guide"
           href: articles/user-guide/getting-started.html
         - text: "Create an account"
