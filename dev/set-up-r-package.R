@@ -35,5 +35,7 @@ pkgdown::preview_site()
 
 usethis::use_pkgdown_github_pages()
 
+devtools::build_readme()
+
 
 # devtools::build_readme()
