@@ -1,0 +1,20 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  user-guide/about: user-guide/about.html
+  user-guide/common-errors: user-guide/common-errors.html
+  user-guide/create-account: user-guide/create-account.html
+  user-guide/create-synthesis: user-guide/create-synthesis.html
+  user-guide/faq: user-guide/faq.html
+  user-guide/getting-started: user-guide/getting-started.html
+  user-guide/glossary: user-guide/glossary.html
+  user-guide/import-formats: user-guide/import-formats.html
+  user-guide/index: user-guide/index.html
+  user-guide/privacy: user-guide/privacy.html
+  user-guide/r-workflows: user-guide/r-workflows.html
+  user-guide/upload-annotations: user-guide/upload-annotations.html
+last_built: 2026-07-16T08:19Z
+urls:
+  reference: https://globalarchivemanual.github.io/GlobalArchive/reference
+  article: https://globalarchivemanual.github.io/GlobalArchive/articles
