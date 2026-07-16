@@ -66,7 +66,7 @@ Imports:
     readr,
     remotes
 Suggests: 
-    testthat (>= 3.0.0)
+    testthat (>= 3.0.0),
     devtools,
     here (>= 1.0.1),
     DT,
