@@ -1,0 +1,23 @@
+---
+title: "About"
+output: html_document
+---
+
+# About GlobalArchive
+
+Mono and stereo-video imagery annotation provides useful information for the discovery, description and management of the marine environment (Harvey et al. 2021), not only for fish and shark assemblages, but also for characterising benthic biota (Langlois et al. 2021; Williams et al. 2020). Such imagery can be sourced from a variety of platforms (e.g. stereo-BRUV, Baited Remote Underwater stereo-Video; stereo-DOV, Diver Operated stereo-Video). The standardisation, archiving and sharing of this annotation data through [<u>synthesis</u>](#synthesis) can contribute to understanding large spatial and temporal scale patterns in marine biodiversity to inform management.
+
+GlobalArchive is a collaborative archive for stereo-video annotations of fish and benthic assemblages, designed to support data standardisation, discovery, sharing and synthesis of this data. The platform brings together sampling information and image annotation outputs (as [<u>Projects</u>](#project) \> [<u>Campaigns</u>](#campaign) \> [<u>Annotation sets</u>](#_244z831h9k4k)) and summaries of count and length data for fish and benthic assemblages (as [<u>Syntheses</u>](http://synthesis/Syntheses)) ready for reporting. It is designed around core principles of secure user access, standardised data import, and the capturing of both field sampling and image analysis information.
+
+The platform is designed to ensure [<u>FAIR data principles</u>](https://www.go-fair.org/fair-principles/) are complied with, but to also enable granular data access so that users can choose the level of open-access applied to the sampling, annotation or [<u>Synthesis</u>](http://synthesis/Syntheses) data. CARE data principles are achieved by enabling users to control the access to their data.
+
+For stereo-video image annotation, data can be directly ingested from common software (e.g. SeaGIS EventMeasure) or imported in generic format, after Quality Control checks (see [<u>CheckEM</u>](https://globalarchivemanual.github.io/CheckEM/index.html)). Schema controlled Annotation data is associated with [<u>Campaigns</u>](#campaign) of samples that are organised within [<u>Projects</u>](#project).
+
+Curated summaries of count and length data for fish and benthic assemblages made from annotation data on GlobalArchive or other platforms, can be published with a DOI and versioned to provide an unchangeable source for environmental reporting.
+
+Data can be accessed via a secure API and R package, enabling efficient and structured querying of all sampling, annotation, within a Campaign, and [<u>Synthesis</u>](http://synthesis/Syntheses) data.
+
+## Overview - uploading [<u>Annotation</u>](#_244z831h9k4k)s<img src="images/image6.png" style="width:9.317in;height:5.48218in" /> 
+
+## Overview - creating a [<u>Synthesis</u>](#synthesis)<img src="images/image5.png" style="width:9.33681in;height:5.23625in" /> 
+

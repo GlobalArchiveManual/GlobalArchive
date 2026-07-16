@@ -1,0 +1,293 @@
+---
+title: "Upload Annotations"
+output: html_document
+---
+
+# Uploading Annotations
+
+For stereo-video image annotation, data can be directly ingested from common software (e.g. SeaGIS EventMeasure) or imported in generic format after Quality Control checks (see CheckEM). Schema controlled Annotation data is associated with [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) that are organised within [<u>Projects</u>](#project).
+
+## First, create a Project and Campaign to hold Annotations
+
+- Before uploading Annotations we must create a [<u>Campaign</u>](#campaign) within a [<u>Project</u>](#project)
+
+  - 1\. From the landing page click *UPLOAD ANNOTATIONS*
+
+  - 2\. Then ⊕ next to *Select an Annotation Set*.
+
+<img src="images/image30.png" style="width:6.03646in;height:3.98085in" />
+
+- A pop-up will open to create an *Annotation Set*
+
+  - 3\. Click the ⊕
+
+> <img src="images/image9.png" style="width:4.18229in;height:2.41603in" />
+
+- A pop-up will open to *Create [<u>Campaign</u>](#campaign)*
+
+  - 4\. Click the ⊕ to *Create [<u>Project</u>](#project)*[<u>.</u>](#project)
+
+<img src="images/image4.png" style="width:5.90626in;height:2.23656in" />
+
+## Create a [<u>Project</u>](#project)
+
+- 1\. Fill out all the information fields - see Definitions
+
+  - The [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp) name should indicate the location and/or objective of the data collection (e.g. Geographe Marine Park)
+
+  - [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp) names must be unique
+
+  - **WARNING:** The [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp) name cannot be changed after creation, so ensure it is spelt correctly. Other fields can be edited later.
+
+<!-- -->
+
+- 2\. Click *CREATE*.
+
+<img src="images/image29.png" style="width:5.67188in;height:4.32092in" />
+
+## Create a [<u>Campaign</u>](#campaign)
+
+- 1\. Fill out all the information fields - see Definitions
+
+  - If the [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp) was just created, the [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp) will automatically be selected
+
+  - The *Campaign Name* will form the middle of the generated [*<u>CampaignID</u>*](#campaignid)
+
+  - e.g. If the *Campaign Name* is “Abrolhos”, and the earliest stereo-BRUV [<u>sample</u>](#sample) was in May 2021, the [*<u>CampaignID</u>*](#campaignid) will be: 2021-05_Abrolhos_stereo-BRUVs
+
+- 2\. Click *CREATE.*
+
+NOTE
+
+- Multiple [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) within a [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp) can have the same Campaign Name, provided they differ in [<u>method</u>](#method) and/or the date of the earliest [<u>sample</u>](#sample)
+
+- For example, both of the following [<u>CampaignIDs</u>](#campaignid) can exist within a [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
+
+  - 2021-05_Abrolhos_stereo-BRUVs
+
+  - 2022-12_Abrolhos_stereo-BRUVs
+
+<img src="images/image27.png" style="width:5.35938in;height:4.47802in" />
+
+**WARNING**
+
+- Once the [<u>Campaign</u>](#campaign) has been created, the following fields cannot be edited
+
+  - [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
+
+  - Campaign name
+
+  - [<u>Method</u>](#method)
+
+- Please take care when entering these in, and double check before clicking *CREATE*
+
+- If you do need to change the [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp), Campaign Name or [<u>Method</u>](#method), you will need to delete the [<u>Campaign</u>](#campaign) and start again
+
+- All other fields can be edited after the [<u>Campaign</u>](#campaign) is created
+
+### Campaign Method Metadata
+
+GlobalArchive collects additional metadata about the sampling method (e.g. type of bait used, duration of deployment, camera types). This information can be useful to standardise methods or as covariates for further analysis. Once a [<u>Method</u>](#method) is selected the Method Metadata Fields and options will populate.
+
+Below is an example of complete Method Metadata for a stereo-BRUVs [<u>Campaign</u>](#campaign).
+
+- A [<u>Campaign</u>](#campaign) cannot be created if fields are left blank
+
+- The predefined fields and values for method metadata can be viewed [<u>here</u>](https://docs.google.com/spreadsheets/d/1hPK8VFqNDw0bgT92T14BBHAqX6aykmGpcpDFiHo8LcU/edit?gid=1017781667#gid=1017781667). If you would like to add any further values, please contact the [<u>administrator</u>](mailto:tim.langlois@uwa.edu.au).
+
+> <img src="images/image12.png" style="width:6.18229in;height:7.02862in" />
+
+- If the information for a method metadata field was not recorded or unavailable, click the ‘x’ next to that field (see image below)
+
+> <img src="images/image36.png" style="width:6.26772in;height:4.23611in" />
+
+###  
+
+### Copying Method Metadata from existing Campaigns
+
+1.  If you have the same Method Metadata across multiple [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl), GlobalArchive allows you to copy Method Metadata from a previous [<u>Campaign</u>](#campaign) where you are the [<u>Custodian</u>](#custodian).
+
+2.  Select [<u>Campaign</u>](#campaign) to copy from.
+
+3.  Click *APPLY*
+
+4.  Then *CREATE*.
+
+NOTE: You can edit the Method Metadata fields later, which is useful when most but not all metadata is the same.
+
+<img src="images/image1.png" style="width:6.26772in;height:5.09722in" />
+
+NOTE
+
+- [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) won’t be listed on the [<u>Campaign</u>](#campaign) screen until annotation data has been imported into the [<u>Annotation Set.</u>](#_244z831h9k4k)
+
+- This means that if you need to delete a [<u>Campaign</u>](#campaign) you will need to import data before you can delete it.
+
+##  
+
+## Create Annotation Set
+
+- Once the [<u>Campaign</u>](#campaign) has been created upload an [<u>Annotation Set</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
+
+  - 1\. If the [<u>Campaign</u>](#campaign) has just been created the [<u>Campaign</u>](#campaign) will be automatically selected
+
+- [<u>Annotation Set</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k) names must be unique within a [<u>Campaign</u>](#campaign) and should be a description on how you annotated the imagery. Example [<u>Annotation Set</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k) names could be ‘Langlois 2020’ if the methods were the same as that in the [<u>BRUV field manual</u>](https://docs.google.com/document/u/0/d/1RMtMtrutk_8p1gXJlq6C-RZvXYQqfGYJIN3stm7JBGQ/edit), or ‘Shark and Rays’ if you only annotated sharks and rays.
+
+- 2\. Fill out the fields.
+
+- 3\. Click *CREATE.*
+
+<img src="images/image14.png" style="width:6.26772in;height:5.08333in" />
+
+- [<u>Annotation Metadata</u>](#_e2brll73iok4) fields can be copied from existing [<u>Annotation Sets</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k) by following the same steps as [<u>copying method metadata fields</u>](#copying-method-metadata-from-existing-campaigns).
+
+- The predefined fields and values for [<u>Annotation Metadata</u>](#_e2brll73iok4) fields can be viewed [<u>here.</u>](https://docs.google.com/spreadsheets/d/1hPK8VFqNDw0bgT92T14BBHAqX6aykmGpcpDFiHo8LcU/edit?gid=1448516600#gid=1448516600) If you would like to add any further values, please contact the [<u>administrator</u>](mailto:tim.langlois@uwa.edu.au).
+
+> <img src="images/image10.png" style="width:6.26772in;height:8.66667in" /><img src="images/image17.png" style="width:3.69271in;height:4.0072in" />
+>
+> NOTE
+
+- If you haven’t just created the [<u>Campaign</u>](#campaign)
+
+  - 1\. From the landing page click *UPLOAD ANNOTATIONS*
+
+  - 2\. Click the ⊕ next to *Select an Annotation Set*
+
+  - 3\. Use the drop down box or type the Campaign name in
+
+  - 4\. Select the [<u>Campaign</u>](#campaign) the [<u>Annotation Set</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k) will belong in
+
+<img src="images/image21.png" style="width:6.26772in;height:5.33333in" />
+
+## Importing Annotations
+
+- 1\. If the [<u>Annotation Set</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k) has just been created, it will automatically be selected and is ready to start importing data
+
+- If the [<u>Annotation Set</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k) hasn’t just been created
+
+  - 1\. On the landing page click *UPLOAD ANNOTATION*
+
+  - 2\. In the ‘*Select a Annotation Set*’ box type in the Annotation set name or select it from the drop down menu
+
+To import Annotations
+
+- 1\. Click *‘Add files to Annotation Set’*
+
+- 2\. Select the metadata (see [<u>example metadata format</u>](#metadata-examples)) and all EMObs for the [<u>Annotation Set</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k) from your local computer
+
+- Alternatively drag and drop the metadata and EMObs into the *‘Add files to Annotation Set’* section
+
+<img src="images/image24.png" style="width:6.26772in;height:5.38889in" />
+
+- 1\. Click the drop down arrow next to the imports to check the status
+
+- 2\. If there is a tick in the *Status* column, the files are ready
+
+<img src="images/image22.png" style="width:6.26772in;height:3.04167in" />
+
+- Next
+
+  - 3 & 4. Select the taxonomic vocabulary used
+
+  - NOTE currently the only option is the *Australian Aquatic Fauna (CAAB+WORMS+FishBase)*.
+
+  - This will add the vocabulary and refresh the screen, showing any errors with the uploads
+
+<img src="images/image8.png" style="width:6.26772in;height:2.55556in" />
+
+### Check for Issues
+
+- Scroll to the *Issues* section.
+
+- The *Issues* section lists any problems detected in the uploaded data. Each row shows:
+
+  - the type of issue
+
+  - a description of the issue
+
+  - the percentage of rows affected
+
+<!-- -->
+
+- The *Type* column indicates the severity of the issue:
+
+  - ℹ️ Info: General information about the data. These messages do not prevent the file from being imported but may highlight something useful to review.
+
+  - ⚠ Warning: A potential problem that should be checked before importing. The file can usually still be imported, but some rows or values may need attention.
+
+  - ❗ Error: A problem that must be fixed before the file can be imported. Errors usually indicate missing required fields, invalid values, or formatting issues that prevent the import from continuing.
+
+<!-- -->
+
+- A detailed explanation of individual errors/warnings, common causes and trouble shooting tips can be found in Table X. Coming soon…
+
+- Use the <span class="mark">👁</span> icon to filter the data view so that only the rows causing the selected issue are displayed. This is useful when you want to inspect the affected records directly, check what needs to be corrected, or focus on one issue at a time without viewing all the problematic rows at once.
+
+- In the *Cause* column, hover your cursor over the ❓ symbol to view more details about the issue, including the affected file, columns or rows, and the percentage of rows affected.
+
+<img src="images/image3.png" style="width:6.26772in;height:4.23611in" />
+
+- Use the *Data View* section to view the rows in the uploaded data that are causing the flagged issues.
+
+- The **Data View** section contains three tabs:
+
+  - *Point Data*,
+
+  - *3D Point Data*,
+
+  - *Length Data*
+
+- Each tab displays the problematic rows from the uploaded files. If there are no problematic rows for a particular data type, the table will be blank.
+
+- Cells containing an issue are highlighted in **orange**. Hover over a highlighted cell to view a description of the issue.
+
+- At the bottom of the *Data View table*, you can change how many rows are displayed per page.
+
+- Use the page arrows to move between pages of flagged rows.
+
+- Use the horizontal scroll bar to scroll across the table and view additional columns. This is useful for reviewing more information about the errors, including details in the EMObs columns.
+
+- After reviewing the flagged rows, you will need to decide whether the issue represents a genuine problem in the data. If the data needs to be corrected, return to the original annotation files in EventMeasure and fix the issue at the source. Once the source files have been corrected, re-upload the files and check the issues panel again.
+
+- Once you are happy with your uploads click *‘Import Data’.*
+
+<img src="images/image7.png" style="width:6.52604in;height:3.42563in" />
+
+**EXAMPLE**:
+
+- The screengrab below shows the *Issues Overview section* filtered to one issue ‘‘The 3D Point Annotation data contain rows with blank or missing values in the ‘period’ column’.
+
+- The 3D Point Data tab lists the opcodes affected by the selected issue.
+
+- The cells containing the issue are highlighted in orange.
+
+- The affected cells are in the period column, there are no values in the period column because the annotations are outside of a period definition.
+
+- The user will review all the 3D measurements that are outside of the period, and check the values in the other columns. By looking at the comment column, we can see that a comment exists for each cell ‘sync point’.
+
+- 3D points without a period are commonly used to set a ‘sync point’ in EventMeasure, as long as there are no values in Family, Genus, Species or Number.
+
+- Therefore, in this example the user will ignore this warning and continue with the import after checking that the 3D measurements flagged are all sync points.
+
+- If there was a 3D point outside of the period with information in the Family, Genus and Species columns.
+
+- The user would open the EMObs on EventMeasure and check it.
+
+  - If it needed to be changed, the user would fix it and save the EMObs, delete the existing EMObs file on GlobalArchive and upload the fixed one.
+
+<img src="images/image33.png" style="width:6.26772in;height:3.23611in" />
+
+**NOTE**
+
+- GlobalArchive provides a complete archive of all the information held with an EventMeasure annotation file (.EMObs). However, GlobalArchive is NOT a video repository and therefore your local annotation files remain the “true” copy of the data and any corrections must be made in the annotation file and then re-imported to GlobalArchive.
+
+- Please look after your annotation files.
+
+- If you have used the [EventMeasure](http://www.seagis.com.au/event.html) software to annotate but have made “corrections” on exported data (e.g. in Excel), this “corrected” data is now the “true” copy of the data and you should import your data as Generic Annotation files (e.g. [<u>count and length data</u>](#_f79ct0b51nvs)). However we strongly advise you to make these corrections to the EventMeasure annotation file (.EMObs).
+
+- Import of Generic Annotations is coming soon…
+
+# 
+
+#  
+

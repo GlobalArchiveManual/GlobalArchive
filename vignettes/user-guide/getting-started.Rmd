@@ -1,0 +1,31 @@
+---
+title: "Getting Started"
+output: html_document
+---
+
+# Using this guide
+
+<span class="mark">This manual details how to:</span>
+
+- <span class="mark">Create an account and navigate on GlobalArchive,</span>
+
+- <span class="mark">Upload an [<u>Annotation Set</u>](#_244z831h9k4k), within a [<u>Campaign</u>](#campaign), within a [<u>Project</u>](#project),</span>
+
+- <span class="mark">Create and upload a</span> [<u>Synthesis</u>](http://synthesis/Syntheses)<span class="mark">.</span>
+
+<span class="mark">The manual is best used in an electronic form - as it uses links to linked supporting Appendices and external resources.</span>
+
+# Useful links
+
+- [<u>GlobalArchive.org 2.0</u>](https://dev.globalarchive.org/ui/)
+
+- [<u>Example - BRUV Metadata</u>](https://docs.google.com/spreadsheets/d/1hPK8VFqNDw0bgT92T14BBHAqX6aykmGpcpDFiHo8LcU/edit?gid=0#gid=0)
+
+- [<u>Example - BOSS Metadata</u>](https://docs.google.com/spreadsheets/d/1hPK8VFqNDw0bgT92T14BBHAqX6aykmGpcpDFiHo8LcU/edit?gid=893435245#gid=893435245)
+
+- [<u>Example - Project metadata</u>](https://docs.google.com/spreadsheets/d/1gtMNcZZqBqG3ylUPD68KqdbANHUKfVJ0XXHdkySHXRk/edit?gid=2094778505#gid=2094778505)
+
+- [<u>Example - Synthesis metadata</u>](https://docs.google.com/spreadsheets/u/0/d/1gtMNcZZqBqG3ylUPD68KqdbANHUKfVJ0XXHdkySHXRk/edit)
+
+#  
+

@@ -1,0 +1,27 @@
+---
+title: "Faq"
+output: html_document
+---
+
+# Frequently Asked Questions and Tips
+
+## Frequently asked questions
+
+Can [<u>Projects</u>](#project) include multiple methods?
+
+- Yes, [<u>Projects</u>](#project) can include multiple methods.
+
+Can [<u>Syntheses</u>](#synthesis) include multiple methods?
+
+- No, [<u>Synthesis</u>](#synthesis) must only contain one method. Separate [<u>Syntheses</u>](#synthesis) must be made for different methods.
+
+If I am uploading for someone else what information do I need to get from the custodian?
+
+- [<u>Here</u>](https://docs.google.com/spreadsheets/d/1gtMNcZZqBqG3ylUPD68KqdbANHUKfVJ0XXHdkySHXRk/edit?gid=0#gid=0) is a spreadsheet to get the custodian to fill out
+
+## Tips
+
+- Light and Dark Mode: In the top right corner of the landing page you can click the ☼ to switch between light and dark mode
+
+#  
+

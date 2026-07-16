@@ -1,0 +1,28 @@
+template:
+  bootstrap: 5
+navbar:
+  structure:
+    left: [intro, reference, articles]
+  components:
+    articles:
+      text: "User guide"
+articles:
+- title: Start here
+  contents:
+  - user-guide/about
+  - user-guide/getting-started
+  - user-guide/create-account
+- title: Upload data
+  contents:
+  - user-guide/upload-annotations
+  - user-guide/create-synthesis
+- title: Reference
+  contents:
+  - user-guide/faq
+  - user-guide/glossary
+  - user-guide/import-formats
+  - user-guide/common-errors
+  - user-guide/r-workflows
+- title: Policies
+  contents:
+  - user-guide/privacy
