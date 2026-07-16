@@ -10,6 +10,16 @@ Authors@R:
         email = "brooke.gibbons@uwa.edu.au",
         comment = c(ORCID = "0000-0002-0628-7781")
       ),
+      person(given = "Claude",
+        family = "Spencer",
+        role = "aut",
+        comment = c(ORCID = "0009-0005-6158-450X")),
+      person(
+        given = "Nik",
+        family = "Lieb",
+        role = "aut",
+        email = "nik.lieb@uwa.edu.au"
+      ),
       person(
         given = "Abbey",
         family = "Gibbons",
@@ -36,8 +46,6 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
-Suggests: 
-    testthat (>= 3.0.0)
 Config/testthat/edition: 3
 URL: https://globalarchivemanual.github.io/GlobalArchive/
 Imports: 
@@ -58,41 +66,10 @@ Imports:
     readr,
     remotes
 Suggests: 
-    cowplot,
-    data.table,
-    ggnewscale,
-    grid,
+    testthat (>= 3.0.0)
     devtools,
-    forcats,
     here (>= 1.0.1),
-    leaflegend,
-    leaflet (>= 2.1.2),
-    leaflet.minicharts,
-    googledrive,
-    googlesheets4,
-    geomtextpath,
-    ggbeeswarm,
-    mgcv,
-    patchwork,
-    png,
-    raster,
-    reactlog,
-    rmarkdown,
     DT,
     knitr,
-    terra,
-    stars,
-    starsExtra,
-    leafgl (>= 0.1.1),
-    shiny (>= 1.7.1),
-    shinyalert,
-    shinyBS,
-    shinycssloaders (>= 1.0.0),
-    shinydashboard (>= 0.7.2),
-    shinydashboardPlus (>= 2.0.3),
-    shinyjs,
-    shinythemes,
-    shinyWidgets (>= 0.7.6),
-    RColorBrewer,
-    viridis
+    terra
     
