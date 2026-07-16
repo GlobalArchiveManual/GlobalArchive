@@ -1,0 +1,28 @@
+Package: GlobalArchive
+Title: Access GlobalArchive data
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Brooke",
+           family = "Gibbons",
+           role = c("aut", "cre"),
+           email = "brooke.gibbons@uwa.edu.au",
+           comment = c(ORCID = "0000-0002-0628-7781")),
+               c(person(given = "Abbey",
+           family = "Gibbons",
+           role = c("aut", "cre"),
+           email = "abbey.gibbons@uwa.edu.au"),
+    person(given = "Tim",
+           family = "Langlois",
+           role = c("aut"),
+           comment = c(ORCID = "0000-0001-6404-4000")),
+    person("ARDC", role = c("fnd")),
+    person("NESP MAC", role = c("fnd"))
+           )
+Description: Access GlobalArchive data via API.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

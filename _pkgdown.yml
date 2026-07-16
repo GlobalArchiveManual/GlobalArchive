@@ -1,28 +1,87 @@
 template:
   bootstrap: 5
+
 navbar:
   structure:
-    left: [intro, reference, articles]
+    left: [intro, start_here, upload_data, reference_docs, r_functions]
+    right: [search, github]
+
   components:
-    articles:
-      text: "User guide"
+    start_here:
+      text: "Start here"
+      menu:
+        - text: "User guide overview"
+          href: articles/user-guide/index.html
+        - text: "About GlobalArchive"
+          href: articles/user-guide/about.html
+        - text: "Using this guide"
+          href: articles/user-guide/getting-started.html
+        - text: "Create an account"
+          href: articles/user-guide/create-account.html
+
+    upload_data:
+      text: "Upload data"
+      menu:
+        - text: "Upload annotations"
+          href: articles/user-guide/upload-annotations.html
+        - text: "Create a synthesis"
+          href: articles/user-guide/create-synthesis.html
+
+    reference_docs:
+      text: "Reference"
+      menu:
+        - text: "Frequently asked questions"
+          href: articles/user-guide/faq.html
+        - text: "Glossary"
+          href: articles/user-guide/glossary.html
+        - text: "Required import formats"
+          href: articles/user-guide/import-formats.html
+        - text: "Common errors"
+          href: articles/user-guide/common-errors.html
+        - text: "R workflows"
+          href: articles/user-guide/r-workflows.html
+        - text: "Privacy"
+          href: articles/user-guide/privacy.html
+
+    r_functions:
+      text: "R Functions"
+      href: reference/index.html
+
 articles:
-- title: Start here
-  contents:
-  - user-guide/about
-  - user-guide/getting-started
-  - user-guide/create-account
-- title: Upload data
-  contents:
-  - user-guide/upload-annotations
-  - user-guide/create-synthesis
-- title: Reference
-  contents:
-  - user-guide/faq
-  - user-guide/glossary
-  - user-guide/import-formats
-  - user-guide/common-errors
-  - user-guide/r-workflows
-- title: Policies
-  contents:
-  - user-guide/privacy
+  - title: "Start here"
+    contents:
+      - user-guide/index
+      - user-guide/about
+      - user-guide/getting-started
+      - user-guide/create-account
+
+  - title: "Upload data"
+    contents:
+      - user-guide/upload-annotations
+      - user-guide/create-synthesis
+
+  - title: "Reference"
+    contents:
+      - user-guide/faq
+      - user-guide/glossary
+      - user-guide/import-formats
+      - user-guide/common-errors
+      - user-guide/r-workflows
+
+  - title: "Policies"
+    contents:
+      - user-guide/privacy
+
+reference:
+  - title: "GlobalArchive API"
+    desc: "Essential functionality for accessing data through the GlobalArchive API."
+    contents:
+      - ga_api_set_token
+      - ga_api_all_data
+      - ga_api_count
+      - ga_api_habitat
+      - ga_api_relief
+      - ga_api_length
+      - ga_api_metadata
+      - ga_api_species_list
+      - ga_api_benthic_list
