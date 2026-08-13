@@ -4,15 +4,26 @@
 \name{GlobalArchive-package}
 \alias{GlobalArchive}
 \alias{GlobalArchive-package}
-\title{GlobalArchive: Access GlobalArchive data}
+\title{GlobalArchive: GlobalArchive Manual and R Package}
 \description{
 Access GlobalArchive data via API.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://globalarchivemanual.github.io/GlobalArchive/}
+}
+
 }
 \author{
 \strong{Maintainer}: Brooke Gibbons \email{brooke.gibbons@uwa.edu.au} (\href{https://orcid.org/0000-0002-0628-7781}{ORCID})
 
 Authors:
 \itemize{
+  \item Brooke Gibbons \email{brooke.gibbons@uwa.edu.au} (\href{https://orcid.org/0000-0002-0628-7781}{ORCID})
+  \item Claude Spencer (\href{https://orcid.org/0009-0005-6158-450X}{ORCID})
+  \item Nik Lieb \email{nik.lieb@uwa.edu.au}
+  \item Abbey Gibbons \email{abbey.gibbons@uwa.edu.au}
   \item Tim Langlois (\href{https://orcid.org/0000-0001-6404-4000}{ORCID})
 }
 
