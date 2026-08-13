@@ -13,7 +13,7 @@ Such imagery can be collected using a variety of platforms, including:
 - stereo-DOVs: diver-operated stereo-video
 
 The standardisation, archiving and sharing of annotation data through
-[syntheses](#synthesis) can contribute to understanding broad spatial
+[syntheses](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) can contribute to understanding broad spatial
 and temporal patterns in marine biodiversity and help inform
 environmental management.
 
