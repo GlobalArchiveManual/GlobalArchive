@@ -9,9 +9,10 @@ for characterising benthic biota (Langlois et al. 2021; Williams et
 al. 2020). Such imagery can be sourced from a variety of platforms
 (e.g. stereo-BRUV, Baited Remote Underwater stereo-Video; stereo-DOV,
 Diver Operated stereo-Video). The standardisation, archiving and sharing
-of this annotation data through [*synthesis*](#synthesis) can contribute
-to understanding large spatial and temporal scale patterns in marine
-biodiversity to inform management.
+of this annotation data through
+[*synthesis*](#https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+can contribute to understanding large spatial and temporal scale
+patterns in marine biodiversity to inform management.
 
 GlobalArchive is a collaborative archive for stereo-video annotations of
 fish and benthic assemblages, designed to support data standardisation,
