@@ -12,15 +12,10 @@
 GlobalArchive uses ORCID IDs for user authentication.
 
 - *If you already have an ORCID:*
-
   - Enter your account details. Click *Sign in to ORCID.*
-
 - *If you don’t have an ORCID:*
-
   - Select *Register now* and create an ORCID.
-
 - *If you have forgotten your ORCID ID or password*
-
   - Click ‘*Forgot your password or ORCID ID?*’ and follow the
     instructions on the page.
 
@@ -30,19 +25,23 @@ GlobalArchive uses ORCID IDs for user authentication.
 
 - To view data
 
-  - Click *BROWSE* to view [*Syntheses*](#synthesis)
-
-    - Use the side menu to view [*Projects*](#project) and
-      [*Campaigns*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl)
-
+  - Click *BROWSE* to view
+    [*Syntheses*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)
+    - Use the side menu to view
+      [*Projects*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
+      and
+      [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
   - Click *MAP* to discover data spatially.
 
 - Click *UPLOAD ANNOTATIONS* to upload Annotations (within
-  [*Campaigns*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl)
-  within [*Projects*](#projects))
+  [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  within
+  [*Projects*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project))
 
-- Click *UPLOAD [*SYNTHESIS*](#synthesis)* to upload
-  [*Syntheses*](http://synthesis/Syntheses).
+- Click *UPLOAD
+  [*SYNTHESIS*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)*
+  to upload
+  [*Syntheses*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses).
 
 ![](images/image16.png)
 

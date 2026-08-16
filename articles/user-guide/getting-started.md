@@ -6,10 +6,15 @@ This manual details how to:
 
 - Create an account and navigate on GlobalArchive,
 
-- Upload an [*Annotation Set*](#id__244z831h9k4k), within a
-  [*Campaign*](#campaign), within a [*Project*](#project),
+- Upload an [*Annotation
+  Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set),
+  within a
+  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign),
+  within a
+  [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project),
 
-- Create and upload a[*Synthesis*](http://synthesis/Syntheses).
+- Create and upload a
+  [*Synthesis*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses).
 
 The manual is best used in an electronic form - as it uses links to
 linked supporting Appendices and external resources.

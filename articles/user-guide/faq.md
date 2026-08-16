@@ -4,14 +4,23 @@
 
 ### Frequently asked questions
 
-Can [*Projects*](#project) include multiple methods?
+Can
+[*Projects*](http://127.0.0.1:61388/articles/user-guide/glossary.html#projects)
+include multiple methods?
 
-- Yes, [*Projects*](#project) can include multiple methods.
+- Yes,
+  [*Projects*](http://127.0.0.1:61388/articles/user-guide/glossary.html#projects)
+  can include multiple methods.
 
-Can [*Syntheses*](#synthesis) include multiple methods?
+Can
+[*Syntheses*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)
+include multiple methods?
 
-- No, [*Synthesis*](#synthesis) must only contain one method. Separate
-  [*Syntheses*](#synthesis) must be made for different methods.
+- No,
+  [*Synthesis*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)
+  must only contain one method. Separate
+  [*Syntheses*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)
+  must be made for different methods.
 
 If I am uploading for someone else what information do I need to get
 from the custodian?

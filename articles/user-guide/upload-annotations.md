@@ -6,13 +6,16 @@ For stereo-video image annotation, data can be directly ingested from
 common software (e.g. SeaGIS EventMeasure) or imported in generic format
 after Quality Control checks (see CheckEM). Schema controlled Annotation
 data is associated with
-[*Campaigns*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl)
-that are organised within [*Projects*](#project).
+[*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+that are organised within
+[*Projects*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project).
 
-### First, create a Project and Campaign to hold Annotations
+### 1. First, create a Project and Campaign to hold Annotations
 
-- Before uploading Annotations we must create a [*Campaign*](#campaign)
-  within a [*Project*](#project)
+- Before uploading Annotations we must create a
+  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  within a
+  [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
 
   - 1\. From the landing page click *UPLOAD ANNOTATIONS*
 
@@ -26,108 +29,123 @@ that are organised within [*Projects*](#project).
 
 > ![](images/image9.png)
 
-- A pop-up will open to *Create [*Campaign*](#campaign)*
+- A pop-up will open to *Create
+  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)*
 
-  - 4\. Click the ⊕ to *Create [*Project*](#project)*[*.*](#project)
+  - 4\. Click the ⊕ to *Create
+    [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)*[*.*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
 
 ![](images/image4.png)
 
-### Create a [*Project*](#project)
+### 2. Create a [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
 
 - 1\. Fill out all the information fields - see Definitions
 
   - The
-    [*Project*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
+    [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
     name should indicate the location and/or objective of the data
     collection (e.g. Geographe Marine Park)
 
-  - [*Project*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
+  - [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
     names must be unique
 
-  - **WARNING:** The
-    [*Project*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
-    name cannot be changed after creation, so ensure it is spelt
-    correctly. Other fields can be edited later.
-
-&nbsp;
+ - **WARNING:** The
+[*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
+name cannot be changed after creation, so ensure it is spelt correctly.
+Other fields can be edited later.
 
 - 2\. Click *CREATE*.
 
 ![](images/image29.png)
 
-### Create a [*Campaign*](#campaign)
+### Create a [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
 
 - 1\. Fill out all the information fields - see Definitions
 
   - If the
-    [*Project*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
+    [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
     was just created, the
-    [*Project*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
+    [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
     will automatically be selected
 
   - The *Campaign Name* will form the middle of the generated
-    [**CampaignID**](#campaignid)
+    [**CampaignID**](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaignid)
 
   - e.g. If the *Campaign Name* is “Abrolhos”, and the earliest
-    stereo-BRUV [*sample*](#sample) was in May 2021, the
-    [**CampaignID**](#campaignid) will be: 2021-05_Abrolhos_stereo-BRUVs
+    stereo-BRUV
+    [*sample*](http://127.0.0.1:61388/articles/user-guide/glossary.html#sample)
+    was in May 2021, the
+    [**CampaignID**](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaignid)
+    will be: 2021-05_Abrolhos_stereo-BRUVs
 
 - 2\. Click *CREATE.*
 
 NOTE
 
 - Multiple
-  [*Campaigns*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl)
+  [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
   within a
-  [*Project*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
+  [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
   can have the same Campaign Name, provided they differ in
-  [*method*](#method) and/or the date of the earliest
-  [*sample*](#sample)
+  [*method*](http://127.0.0.1:61388/articles/user-guide/glossary.html#method)
+  and/or the date of the earliest
+  [*sample*](http://127.0.0.1:61388/articles/user-guide/glossary.html#sample)
 
-- For example, both of the following [*CampaignIDs*](#campaignid) can
-  exist within a
-  [*Project*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
+- For example, both of the following
+  [*CampaignIDs*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaignid)
+  can exist within a
+  [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
 
-  - 2021-05_Abrolhos_stereo-BRUVs
+ - 2021-05_Abrolhos_stereo-BRUVs
 
-  - 2022-12_Abrolhos_stereo-BRUVs
+ - 2022-12_Abrolhos_stereo-BRUVs
 
 ![](images/image27.png)
 
 **WARNING**
 
-- Once the [*Campaign*](#campaign) has been created, the following
-  fields cannot be edited
+- Once
+  the[*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  has been created, the following fields cannot be edited
 
-  - [*Project*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp)
-
+  - [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
   - Campaign name
-
-  - [*Method*](#method)
+  - [*Method*](http://127.0.0.1:61388/articles/user-guide/glossary.html#method)
 
 - Please take care when entering these in, and double check before
   clicking *CREATE*
 
 - If you do need to change the
-  [*Project*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp),
-  Campaign Name or [*Method*](#method), you will need to delete the
-  [*Campaign*](#campaign) and start again
+  [Project](http://127.0.0.1:61388/articles/user-guide/glossary.html#project),
+  Campaign Name or
+  [Method](http://127.0.0.1:61388/articles/user-guide/glossary.html#method),
+  you will need to delete the
+  [Campaign](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  and start again
 
-- All other fields can be edited after the [*Campaign*](#campaign) is
-  created
+- All other fields can be edited after the
+  [Campaign](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  is created
+
+- All other fields can be edited after the
+[*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+is created
 
 #### Campaign Method Metadata
 
 GlobalArchive collects additional metadata about the sampling method
 (e.g. type of bait used, duration of deployment, camera types). This
 information can be useful to standardise methods or as covariates for
-further analysis. Once a [*Method*](#method) is selected the Method
-Metadata Fields and options will populate.
+further analysis. Once a
+[*Method*](http://127.0.0.1:61388/articles/user-guide/glossary.html#method)
+is selected the Method Metadata Fields and options will populate.
 
 Below is an example of complete Method Metadata for a stereo-BRUVs
-[*Campaign*](#campaign).
+[*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign).
 
-- A [*Campaign*](#campaign) cannot be created if fields are left blank
+- A
+  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  cannot be created if fields are left blank
 
 - The predefined fields and values for method metadata can be viewed
   [*here*](https://docs.google.com/spreadsheets/d/1hPK8VFqNDw0bgT92T14BBHAqX6aykmGpcpDFiHo8LcU/edit?gid=1017781667#gid=1017781667).
@@ -146,11 +164,15 @@ Below is an example of complete Method Metadata for a stereo-BRUVs
 #### Copying Method Metadata from existing Campaigns
 
 1.  If you have the same Method Metadata across multiple
-    [*Campaigns*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl),
+    [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign),
     GlobalArchive allows you to copy Method Metadata from a previous
-    [*Campaign*](#campaign) where you are the [*Custodian*](#custodian).
+    [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+    where you are the
+    [*Custodian*](http://127.0.0.1:61388/articles/user-guide/glossary.html#custodian).
 
-2.  Select [*Campaign*](#campaign) to copy from.
+2.  Select
+    [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+    to copy from.
 
 3.  Click *APPLY*
 
@@ -163,29 +185,38 @@ when most but not all metadata is the same.
 
 NOTE
 
-- [*Campaigns*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl)
-  won’t be listed on the [*Campaign*](#campaign) screen until annotation
-  data has been imported into the [*Annotation Set.*](#id__244z831h9k4k)
+- [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  won’t be listed on the
+  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  screen until annotation data has been imported into the [*Annotation
+  Set.*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
 
-- This means that if you need to delete a [*Campaign*](#campaign) you
-  will need to import data before you can delete it.
+- This means that if you need to delete a
+  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  you will need to import data before you can delete it.
 
 ### 
 
 ### Create Annotation Set
 
-- Once the [*Campaign*](#campaign) has been created upload an
-  [*Annotation
-  Set*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
+- Once the
+  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  has been created upload an [*Annotation
+  Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
 
-  - 1\. If the [*Campaign*](#campaign) has just been created the
-    [*Campaign*](#campaign) will be automatically selected
+  - 1\. If the
+    [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+    has just been created the
+    [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+    will be automatically selected
 
 - [*Annotation
-  Set*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
-  names must be unique within a [*Campaign*](#campaign) and should be a
-  description on how you annotated the imagery. Example [*Annotation
-  Set*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
+  Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
+  names must be unique within a
+  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  and should be a description on how you annotated the imagery. Example
+  [*Annotation
+  Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
   names could be ‘Langlois 2020’ if the methods were the same as that in
   the [*BRUV field
   manual*](https://docs.google.com/document/u/0/d/1RMtMtrutk_8p1gXJlq6C-RZvXYQqfGYJIN3stm7JBGQ/edit),
@@ -197,14 +228,16 @@ NOTE
 
 ![](images/image14.png)
 
-- [*Annotation Metadata*](#id__e2brll73iok4) fields can be copied from
-  existing [*Annotation
-  Sets*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
+- [*Annotation
+  Metadata*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-metadata)
+  fields can be copied from existing [*Annotation
+  Sets*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
   by following the same steps as [*copying method metadata
   fields*](#copying-method-metadata-from-existing-campaigns).
 
 - The predefined fields and values for [*Annotation
-  Metadata*](#id__e2brll73iok4) fields can be viewed
+  Metadata*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-metadata)
+  fields can be viewed
   [*here.*](https://docs.google.com/spreadsheets/d/1hPK8VFqNDw0bgT92T14BBHAqX6aykmGpcpDFiHo8LcU/edit?gid=1448516600#gid=1448516600)
   If you would like to add any further values, please contact the
   [*administrator*](mailto:tim.langlois@uwa.edu.au).
@@ -213,7 +246,8 @@ NOTE
 >
 > NOTE
 
-- If you haven’t just created the [*Campaign*](#campaign)
+- If you haven’t just created the
+  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
 
   - 1\. From the landing page click *UPLOAD ANNOTATIONS*
 
@@ -221,8 +255,10 @@ NOTE
 
   - 3\. Use the drop down box or type the Campaign name in
 
-  - 4\. Select the [*Campaign*](#campaign) the [*Annotation
-    Set*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
+  - 4\. Select the
+    [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+    the [*Annotation
+    Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
     will belong in
 
 ![](images/image21.png)
@@ -230,12 +266,12 @@ NOTE
 ### Importing Annotations
 
 - 1\. If the [*Annotation
-  Set*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
+  Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
   has just been created, it will automatically be selected and is ready
   to start importing data
 
 - If the [*Annotation
-  Set*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
+  Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
   hasn’t just been created
 
   - 1\. On the landing page click *UPLOAD ANNOTATION*
@@ -248,8 +284,9 @@ To import Annotations
 - 1\. Click *‘Add files to Annotation Set’*
 
 - 2\. Select the metadata (see [*example metadata
-  format*](#metadata-examples)) and all EMObs for the [*Annotation
-  Set*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
+  format*](http://127.0.0.1:61388/articles/user-guide/import-formats.html#sample-metadata)
+  and all EMObs for the [*Annotation
+  Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
   from your local computer
 
 - Alternatively drag and drop the metadata and EMObs into the *‘Add
