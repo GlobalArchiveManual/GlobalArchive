@@ -7,13 +7,13 @@ output: html_document
 
 ## Frequently asked questions
 
-Can [<u>Projects</u>](#project) include multiple methods?
+Can [<u>Projects</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#projects) include multiple methods?
 
-- Yes, [<u>Projects</u>](#project) can include multiple methods.
+- Yes, [<u>Projects</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#projects) can include multiple methods.
 
-Can [<u>Syntheses</u>](#synthesis) include multiple methods?
+Can [<u>Syntheses</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses) include multiple methods?
 
-- No, [<u>Synthesis</u>](#synthesis) must only contain one method. Separate [<u>Syntheses</u>](#synthesis) must be made for different methods.
+- No, [<u>Synthesis</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses) must only contain one method. Separate [<u>Syntheses</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses) must be made for different methods.
 
 If I am uploading for someone else what information do I need to get from the custodian?
 

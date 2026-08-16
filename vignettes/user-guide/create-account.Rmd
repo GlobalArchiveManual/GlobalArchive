@@ -14,15 +14,12 @@ output: html_document
 GlobalArchive uses ORCID IDs for user authentication.
 
 - *If you already have an ORCID:*
-
   - Enter your account details. Click *Sign in to ORCID.*
 
 - *If you don’t have an ORCID:*
-
   - Select *Register now* and create an ORCID.
 
 - *If you have forgotten your ORCID ID or password*
-
   - Click ‘*Forgot your password or ORCID ID?*’ and follow the instructions on the page.
 
 ##  
@@ -30,16 +27,15 @@ GlobalArchive uses ORCID IDs for user authentication.
 ## Navigating the GlobalArchive landing page
 
 - To view data
-
-  - Click *BROWSE* to view [<u>Syntheses</u>](#synthesis)
-
-    - Use the side menu to view [<u>Projects</u>](#project) and [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl)
+  - Click *BROWSE* to view [<u>Syntheses</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)
+    - Use the side menu to view [<u>Projects</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#project) and [<u>Campaigns</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
 
   - Click *MAP* to discover data spatially.
+  
 
-- Click *UPLOAD ANNOTATIONS* to upload Annotations (within [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) within [<u>Projects</u>](#projects))
+- Click *UPLOAD ANNOTATIONS* to upload Annotations (within [<u>Campaigns</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign) within [<u>Projects</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#project))
 
-- Click *UPLOAD [<u>SYNTHESIS</u>](#synthesis)* to upload [<u>Syntheses</u>](http://synthesis/Syntheses).
+- Click *UPLOAD [<u>SYNTHESIS</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)* to upload [<u>Syntheses</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses).
 
 <img src="images/image16.png" style="width:6.94935in;height:2.57426in" />
 

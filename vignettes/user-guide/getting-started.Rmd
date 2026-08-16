@@ -5,15 +5,15 @@ output: html_document
 
 # Using this guide
 
-<span class="mark">This manual details how to:</span>
+This manual details how to:
 
-- <span class="mark">Create an account and navigate on GlobalArchive,</span>
+- Create an account and navigate on GlobalArchive,
 
-- <span class="mark">Upload an [<u>Annotation Set</u>](#_244z831h9k4k), within a [<u>Campaign</u>](#campaign), within a [<u>Project</u>](#project),</span>
+- Upload an [<u>Annotation Set</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set), within a [<u>Campaign</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign), within a [<u>Project</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#project),
 
-- <span class="mark">Create and upload a</span> [<u>Synthesis</u>](http://synthesis/Syntheses)<span class="mark">.</span>
+- Create and upload a [<u>Synthesis</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses).
 
-<span class="mark">The manual is best used in an electronic form - as it uses links to linked supporting Appendices and external resources.</span>
+The manual is best used in an electronic form - as it uses links to linked supporting Appendices and external resources.
 
 # Useful links
 
