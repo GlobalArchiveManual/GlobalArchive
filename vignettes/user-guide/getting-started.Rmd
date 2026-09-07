@@ -9,9 +9,9 @@ This manual details how to:
 
 - Create an account and navigate on GlobalArchive,
 
-- Upload an [<u>Annotation Set</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set), within a [<u>Campaign</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign), within a [<u>Project</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#project),
+- Upload an [<u>Annotation Set</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set), within a [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign), within a [<u>Project</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project),
 
-- Create and upload a [<u>Synthesis</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses).
+- Create and upload a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses).
 
 The manual is best used in an electronic form - as it uses links to linked supporting Appendices and external resources.
 
