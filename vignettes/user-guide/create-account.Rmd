@@ -36,7 +36,6 @@ GlobalArchive uses ORCID IDs for user authentication.
   
 
 - Click *UPLOAD ANNOTATIONS* to upload Annotations (within [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) within [<u>Projects</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project))
-
 - Click *UPLOAD [<u>SYNTHESIS</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)* to upload [<u>Syntheses</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses).
 
 <img src="images/image16.png" style="width:6.94935in;height:2.57426in" />
