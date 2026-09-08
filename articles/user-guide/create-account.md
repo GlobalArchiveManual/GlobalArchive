@@ -9,6 +9,13 @@
 
 ![](images/image32.png)![](images/image13.png)
 
+If you work for an organisation in a role - we recommend you consider
+using a role-based email to register for an ORCID e.g. for the UWA
+Oceans Institute we have created <https://orcid.org/0009-0007-2402-2916>
+using
+[oceans.data@uwa.edu.au](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/oceans.data@uwa.edu.au)
+to help ensure continuity of data custodianship as people change roles.
+
 GlobalArchive uses ORCID IDs for user authentication.
 
 - *If you already have an ORCID:*
@@ -26,22 +33,22 @@ GlobalArchive uses ORCID IDs for user authentication.
 - To view data
 
   - Click *BROWSE* to view
-    [*Syntheses*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)
+    [*Syntheses*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
     - Use the side menu to view
-      [*Projects*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
+      [*Projects*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
       and
-      [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+      [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   - Click *MAP* to discover data spatially.
 
 - Click *UPLOAD ANNOTATIONS* to upload Annotations (within
-  [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   within
-  [*Projects*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project))
+  [*Projects*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project))
 
 - Click *UPLOAD
-  [*SYNTHESIS*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)*
+  [*SYNTHESIS*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*
   to upload
-  [*Syntheses*](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses).
+  [*Syntheses*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses).
 
 ![](images/image16.png)
 
