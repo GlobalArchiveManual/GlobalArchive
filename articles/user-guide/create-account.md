@@ -31,7 +31,6 @@ GlobalArchive uses ORCID IDs for user authentication.
 ### Navigating the GlobalArchive landing page
 
 - To view data
-
   - Click *BROWSE* to view
     [*Syntheses*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
     - Use the side menu to view
@@ -39,12 +38,10 @@ GlobalArchive uses ORCID IDs for user authentication.
       and
       [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   - Click *MAP* to discover data spatially.
-
 - Click *UPLOAD ANNOTATIONS* to upload Annotations (within
   [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   within
   [*Projects*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project))
-
 - Click *UPLOAD
   [*SYNTHESIS*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*
   to upload

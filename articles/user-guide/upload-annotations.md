@@ -6,14 +6,14 @@ For stereo-video image annotation, data can be directly ingested from
 common software (e.g. SeaGIS EventMeasure) or imported in generic format
 after Quality Control checks (see CheckEM). Schema controlled Annotation
 data is associated with
-[*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+[*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
 that are organised within
 [*Projects*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project).
 
-### 1. First, create a Project and Campaign to hold Annotations
+### 1. First, create a Project and [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) to hold Annotations
 
 - Before uploading Annotations we must create a
-  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   within a
   [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
 
@@ -30,7 +30,7 @@ that are organised within
 > ![](images/image9.png)
 
 - A pop-up will open to *Create
-  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)*
+  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))*
 
   - 4\. Click the ⊕ to *Create
     [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)*[*.*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
@@ -58,7 +58,7 @@ Other fields can be edited later.
 
 ![](images/image29.png)
 
-### Create a [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+### Create a [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
 
 - 1\. Fill out all the information fields - see Definitions
 
@@ -83,7 +83,7 @@ Other fields can be edited later.
 NOTE
 
 - Multiple
-  [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
   within a
   [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
   can have the same Campaign Name, provided they differ in
@@ -105,7 +105,7 @@ NOTE
 **WARNING**
 
 - Once
-  the[*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  the[*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
   has been created, the following fields cannot be edited
 
   - [*Project*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
@@ -120,15 +120,15 @@ NOTE
   Campaign Name or
   [Method](http://127.0.0.1:61388/articles/user-guide/glossary.html#method),
   you will need to delete the
-  [Campaign](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
   and start again
 
 - All other fields can be edited after the
-  [Campaign](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
   is created
 
 - All other fields can be edited after the
-[*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+[*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
 is created
 
 #### Campaign Method Metadata
@@ -141,10 +141,10 @@ further analysis. Once a
 is selected the Method Metadata Fields and options will populate.
 
 Below is an example of complete Method Metadata for a stereo-BRUVs
-[*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign).
+[*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign).
 
 - A
-  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   cannot be created if fields are left blank
 
 - The predefined fields and values for method metadata can be viewed
@@ -164,14 +164,14 @@ Below is an example of complete Method Metadata for a stereo-BRUVs
 #### Copying Method Metadata from existing Campaigns
 
 1.  If you have the same Method Metadata across multiple
-    [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign),
+    [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign),
     GlobalArchive allows you to copy Method Metadata from a previous
-    [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+    [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
     where you are the
     [*Custodian*](http://127.0.0.1:61388/articles/user-guide/glossary.html#custodian).
 
 2.  Select
-    [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+    [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
     to copy from.
 
 3.  Click *APPLY*
@@ -185,14 +185,14 @@ when most but not all metadata is the same.
 
 NOTE
 
-- [*Campaigns*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+- [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   won’t be listed on the
-  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   screen until annotation data has been imported into the [*Annotation
   Set.*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
 
 - This means that if you need to delete a
-  [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   you will need to import data before you can delete it.
 
 ### 
