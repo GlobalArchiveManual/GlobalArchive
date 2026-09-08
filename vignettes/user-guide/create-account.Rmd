@@ -11,6 +11,8 @@ output: html_document
 
 <img src="images/image32.png" style="width:6.26772in;height:3.25in" /><img src="images/image13.png" style="width:2.98073in;height:3.14007in" />
 
+If you work for an organisation in a role - we recommend you consider using a role-based email to register for an ORCID e.g. for the UWA Oceans Institute we have created [https://orcid.org/0009-0007-2402-2916](https://orcid.org/0009-0007-2402-2916) using [oceans.data@uwa.edu.au](oceans.data@uwa.edu.au) to help ensure continuity of data custodianship as people change roles.
+
 GlobalArchive uses ORCID IDs for user authentication.
 
 - *If you already have an ORCID:*
@@ -27,15 +29,15 @@ GlobalArchive uses ORCID IDs for user authentication.
 ## Navigating the GlobalArchive landing page
 
 - To view data
-  - Click *BROWSE* to view [<u>Syntheses</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)
-    - Use the side menu to view [<u>Projects</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#project) and [<u>Campaigns</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+  - Click *BROWSE* to view [<u>Syntheses</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+    - Use the side menu to view [<u>Projects</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project) and [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
 
   - Click *MAP* to discover data spatially.
   
 
-- Click *UPLOAD ANNOTATIONS* to upload Annotations (within [<u>Campaigns</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign) within [<u>Projects</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#project))
+- Click *UPLOAD ANNOTATIONS* to upload Annotations (within [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) within [<u>Projects</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project))
 
-- Click *UPLOAD [<u>SYNTHESIS</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses)* to upload [<u>Syntheses</u>](http://127.0.0.1:61388/articles/user-guide/glossary.html#synthesissyntheses).
+- Click *UPLOAD [<u>SYNTHESIS</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)* to upload [<u>Syntheses</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses).
 
 <img src="images/image16.png" style="width:6.94935in;height:2.57426in" />
 
