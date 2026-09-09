@@ -19,11 +19,13 @@ that are organised within
 
   - 1\. From the landing page click *UPLOAD ANNOTATIONS*
 
-  - 2\. Then ⊕ next to *Select an Annotation Set*.
+  - 2\. Then ⊕ next to \*\<[u\>Annotation
+    Set.](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
 
 ![](images/image30.png)
 
-- A pop-up will open to create an *Annotation Set*
+- A pop-up will open to create an *[*Annotation
+  Set.*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)*
 
   - 3\. Click the ⊕
 
