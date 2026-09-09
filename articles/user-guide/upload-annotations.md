@@ -241,23 +241,19 @@ when most but not all metadata is the same.
 
 > ![](images/image10.png)![](images/image17.png)
 >
-> NOTE
+> **NOTE**
 
 - If you haven’t just created the
-  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
-
-  - 1\. From the landing page click *UPLOAD ANNOTATIONS*
-
-  - 2\. Click the ⊕ next to *Select an [*Annotation
-    Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)*
-
-  - 3\. Use the drop down box or type the Campaign name in
-
-  - 4\. Select the
-    [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
-    the [*Annotation
-    Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
-    will belong in
+  [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
+  1.  From the landing page click UPLOAD ANNOTATIONS
+  2.  Click the ⊕ next to Select an [Annotation
+      Set](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+  3.  Use the drop down box or type the Campaign name in
+  4.  Select the
+      [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
+      the [Annotation
+      Set](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+      will belong in
 
 ![](images/image21.png)
 
@@ -303,7 +299,7 @@ To import Annotations
   - 3 & 4. Select the taxonomic vocabulary used
 
   - NOTE currently the only option is the *Australian Aquatic Fauna
-    (CAAB+WORMS+FishBase)*.
+    (CAAB+WORMS+FishBase)* and *AphiaID Taxonomy*.
 
   - This will add the vocabulary and refresh the screen, showing any
     errors with the uploads
@@ -327,7 +323,9 @@ To import Annotations
 
 - The *Type* column indicates the severity of the issue:
 
-  - ℹ️ Info: General information about the data. These messages do not
+  - ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMUU4OEU1Ij48dGl0bGU+CjxwPmluZm9ybWF0aW9uPC9wPgo8L3RpdGxlPgo8cD48cGF0aCBkPSJNMTMsOUgxMVY3SDEzTTEzLDE3SDExVjExSDEzTTEyLDJBMTAsMTAgMCAwLDAgMiwxMkExMCwxMCAwIDAsMCAxMiwyMkExMCwxMCAwIDAsMCAyMiwxMkExMCwxMCAwIDAsMCAxMiwyWiIgLz48L3A+Cjwvc3ZnPg==)
+
+    Info: General information about the data. These messages do not
     prevent the file from being imported but may highlight something
     useful to review.
 
@@ -454,7 +452,3 @@ To import Annotations
   EventMeasure annotation file (.EMObs).
 
 - Import of Generic Annotations is coming soon…
-
-## 
-
-## 
