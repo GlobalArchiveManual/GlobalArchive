@@ -11,7 +11,7 @@ output: html_document
 
 <img src="images/image32.png" style="width:6.26772in;height:3.25in" /><img src="images/image13.png" style="width:2.98073in;height:3.14007in" />
 
-If you work for an organisation in a role - we recommend you consider using a role-based email to register for an ORCID e.g. for the UWA Oceans Institute we have created [https://orcid.org/0009-0007-2402-2916](https://orcid.org/0009-0007-2402-2916) using [oceans.data@uwa.edu.au](oceans.data@uwa.edu.au) to help ensure continuity of data custodianship as people change roles.
+If you work for an organisation in a role - we recommend you consider using a role-based email to register for an ORCID e.g. for the UWA Oceans Institute we have created [https://orcid.org/0009-0007-2402-2916](https://orcid.org/0009-0007-2402-2916) using [oceans.data@uwa.edu.au](mailto:oceans.data@uwa.edu.au) to help ensure continuity of data custodianship as people change roles.
 
 GlobalArchive uses ORCID IDs for user authentication.
 
