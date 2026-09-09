@@ -111,6 +111,7 @@ Below is an example of complete Method Metadata for a stereo-BRUVs [<u>Campaign<
 3.  Click *APPLY*
 
 4.  Then *CREATE*.
+
 <div style="color:#E87722">
 **NOTE**
 
