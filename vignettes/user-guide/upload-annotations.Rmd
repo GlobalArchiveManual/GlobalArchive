@@ -13,11 +13,11 @@ For stereo-video image annotation, data can be directly ingested from common sof
 
   - 1\. From the landing page click *UPLOAD ANNOTATIONS*
 
-  - 2\. Then ⊕ next to *Select an Annotation Set*.
+  - 2\. Then ⊕ next to *<[u>Annotation Set.</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
 
 <img src="images/image30.png" style="width:6.03646in;height:3.98085in" />
 
-- A pop-up will open to create an *Annotation Set*
+- A pop-up will open to create an *[<u>Annotation Set.</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)*
 
   - 3\. Click the ⊕
 
