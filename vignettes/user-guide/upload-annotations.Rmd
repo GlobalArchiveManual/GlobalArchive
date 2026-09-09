@@ -13,7 +13,7 @@ For stereo-video image annotation, data can be directly ingested from common sof
 
   - 1\. From the landing page click *UPLOAD ANNOTATIONS*
 
-  - 2\. Then ⊕ next to *<[u>Annotation Set.</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
+  - 2\. Then ⊕ next to *[<u>Annotation Set</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
 
 <img src="images/image30.png" style="width:6.03646in;height:3.98085in" />
 
@@ -64,11 +64,8 @@ NOTE
 
 - For example, both of the following [<u>CampaignIDs</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaignid) can exist within a [<u>Project</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
 
-<span style="color:green">  - 
-2021-05_Abrolhos_stereo-BRUVs</span>
-
-<span style="color:green">  - 
-2022-12_Abrolhos_stereo-BRUVs</span>
+<span style="color:green; font-family: 'Roboto Mono', monospace;">- 2021-05_Abrolhos_stereo-BRUVs</span>
+<span style="color:green; font-family: 'Roboto Mono', monospace;">- 2022-12_Abrolhos_stereo-BRUVs</span>
 
 <img src="images/image27.png" style="width:5.35938in;height:4.47802in" />
 <div style="color:red">
