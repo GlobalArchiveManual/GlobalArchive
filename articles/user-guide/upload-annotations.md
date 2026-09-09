@@ -98,9 +98,7 @@ NOTE
   can exist within a
   [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
 
-- - 2021-05_Abrolhos_stereo-BRUVs
-
-- - 2022-12_Abrolhos_stereo-BRUVs
+  - 2021-05_Abrolhos_stereo-BRUVs - 2022-12_Abrolhos_stereo-BRUVs
 
 ![](images/image27.png)
 
@@ -128,10 +126,6 @@ NOTE
 - All other fields can be edited after the
   [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   is created
-
-- All other fields can be edited after the
-[*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
-is created
 
 #### Campaign Method Metadata
 
