@@ -64,8 +64,8 @@ NOTE
 
 - For example, both of the following [<u>CampaignIDs</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaignid) can exist within a [<u>Project</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
 
- - <span style="color:green; font-family: 'Roboto Mono', monospace;">- 2021-05_Abrolhos_stereo-BRUVs</span>
- - <span style="color:green; font-family: 'Roboto Mono', monospace;">- 2022-12_Abrolhos_stereo-BRUVs</span>
+  <span style="color:green; font-family: 'Roboto Mono', monospace;">- 2021-05_Abrolhos_stereo-BRUVs</span>
+  <span style="color:green; font-family: 'Roboto Mono', monospace;">- 2022-12_Abrolhos_stereo-BRUVs</span>
 
 <img src="images/image27.png" style="width:5.35938in;height:4.47802in" />
 <div style="color:red">
@@ -81,7 +81,7 @@ NOTE
 - If you do need to change the [Project](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project), Campaign Name or [Method](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#method), you will need to delete the [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) and start again
 - All other fields can be edited after the [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) is created
 
-<span style="color:red">- All other fields can be edited after the [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) is created</span>
+</div>
 
 ### Campaign Method Metadata
 
