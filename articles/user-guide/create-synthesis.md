@@ -7,72 +7,87 @@
 Curated summaries of count and length data for fish and benthic
 assemblages, made from annotation data, from GlobalArchive or other
 platforms, and from multiple times and locations can be brought together
-in a [*Synthesis*](http://synthesis/Syntheses).
+in a
+[*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses).
 
-[*Syntheses*](http://synthesis/Syntheses) can be versioned and published
-with a DOI to provide an unchangeable source for reporting.
+[*Syntheses*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+can be versioned and published with a DOI to provide an unchangeable
+source for reporting.
 
-[*Synthesis*](http://synthesis/Syntheses) can be created via the CheckEM
-app or using [*example R
+[*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+can be created via the CheckEM app or using [*example R
 code*](https://github.com/UWA-Marine-Ecology-Group-syntheses/template-synthesis).
 
 ### Creating a Synthesis on GlobalArchive
 
-- To create a [*Synthesis*](http://synthesis/Syntheses)
+- To create a
+  [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
 
   - 1\. Click *Import* .
 
-  - 2\. Then *Import [*Synthesis*](#synthesis)* .
+  - 2\. Then *Import
+    [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*
+    .
 
   - 3\. Then click the ⊕ next to *Select a
-    [*Synthesis*](http://synthesis/Syntheses)*![](images/image25.png)
+    \[*Synthesis*\](hhttps://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses*![](images/image25.png)
 
   - Alternatively, from the landing page click *UPLOAD
-    [*SYNTHESIS*](#synthesis)* and then click the ⊕ next to *Select a
-    [*Synthesis*](http://synthesis/Syntheses)*
+    [*SYNTHESIS*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*
+    and then click the ⊕ next to *Select a
+    [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*
 
 &nbsp;
 
 - A pop-up will open to Create a
-  [*Synthesis*](http://synthesis/Syntheses).
+  [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses).
 
 - 1\. Complete the relevant fields by typing into the text boxes and
   selecting options from the drop-down menus.
 
-  - The [*Synthesis*](#synthesis) name should indicate the location
-    and/or objective of the data collection (e.g. Geographe Marine
-    Park).
+  - The
+    [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+    name should indicate the location and/or objective of the data
+    collection (e.g. Geographe Marine Park).
 
-  - [*Synthesis*](#synthesis) names do not need to be unique.
-    GlobalArchive will automatically assign a version number to a
-    duplicate name.
+  - [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+    names do not need to be unique. GlobalArchive will automatically
+    assign a version number to a duplicate name.
 
   - All information entered when creating a
-    [*Synthesis*](http://synthesis/Syntheses) can be edited after the
-    [*Synthesis*](http://synthesis/Syntheses) has been created.
+    [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+    can be edited after the
+    [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+    has been created.
 
 - 2\. Click *CREATE*
 
-  - Examples of completed [*Synthesis*](http://synthesis/Syntheses)
+  - Examples of completed
+    [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
     information are shown below.  
     ![](images/image31.png)
 
 ### Importing data into a Synthesis
 
-- On the Import [*Synthesis*](http://synthesis/Syntheses) page, select
-  the [*Synthesis*](http://synthesis/Syntheses) by typing in the name or
-  scrolling in the dropdown
+- On the Import
+  [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+  page, select the
+  [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+  by typing in the name or scrolling in the dropdown
 
-  - Click the [*Synthesis*](http://synthesis/Syntheses) you would like
-    to import data into
+  - Click the
+    [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+    you would like to import data into
 
 ![](images/image26.png)
 
-- 1\. Click *Add files to [*Synthesis*](#synthesis)*
+- 1\. Click *Add files to
+  [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*
 
 - 2\. A pop-up will open. Select the files for the
-  [*Synthesis*](http://synthesis/Syntheses) ([*see the Format required
-  for synthesis import*](#id__e6v9b7rhlziu))
+  [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+  ([*see the Format required for synthesis
+  import*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#appendix-4---required-format-for-upload-and-import))
 
   - Alternatively drag and drop the files into the upload section
 
@@ -97,7 +112,9 @@ code*](https://github.com/UWA-Marine-Ecology-Group-syntheses/template-synthesis)
   - 2\. Select the appropriate file type from the dropdown menu
 
 - The recommended naming conventions are listed in the [*format required
-  for import*](#id__e6v9b7rhlziu) section
+  for
+  import*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#appendix-4---required-format-for-upload-and-import)
+  section
 
 ![](images/image38.png)
 
@@ -116,15 +133,16 @@ To delete multiple files
 - Next select the taxonomic vocabulary used by using the drop down menu
 
 - NOTE at present, the only vocabularies are the *Australian Aquatic
-  Fauna (CAAB+WORMS+FishBase)* for fish and *Australian Benthic Biota
-  and Substrate (CATAMI+)* for Benthic organisms and habitat
-  classification.
+  Fauna (CAAB+WORMS+FishBase)* and *AphiaID Taxonomy* for fish and
+  *Australian Benthic Biota and Substrate (CATAMI+)* for Benthic
+  organisms and habitat classification.
 
 ![](images/image28.png)
 
 #### Check for Issues
 
-- After adding files into a [*Synthesis*](http://synthesis/Syntheses)*,*
+- After adding files into a
+  [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*,*
   the Issues section will refresh with any errors
 
 - The *Issues* section lists any problems detected in the uploaded data.
@@ -140,19 +158,18 @@ To delete multiple files
 
 - The *Type* column indicates the severity of the issue:
 
-  - ℹ️Info: General information about the data. These messages do not
+  - ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48dGl0bGU+aW5mb3JtYXRpb248L3RpdGxlPgo8cGF0aCBmaWxsPSIjMUU4OEU1IiBkPSJNMTIsMkExMCwxMCAwIDAsMCAyLDEyQTEwLDEwIDAgMCwwIDEyLDIyQTEwLDEwIDAgMCwwIDIyLDEyQTEwLDEwIDAgMCwwIDEyLDJaIiAvPjxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMTMsOUgxMVY3SDEzTTEzLDE3SDExVjExSDEzIiAvPjwvc3ZnPg==)
+    Info: General information about the data. These messages do not
     prevent the file from being imported but may highlight something
     useful to review.
-
-  - ⚠︎Warning: A potential problem that should be checked before
+  - ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48dGl0bGU+YWxlcnQ8L3RpdGxlPgo8cGF0aCBmaWxsPSIjRTg3NzIyIiBkPSJNMSAyMUgyM0wxMiAyTDEgMjFaIiAvPjxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMTMgMTRIMTFWOUgxM00xMyAxOEgxMVYxNkgxMyIgLz48L3N2Zz4=)
+    Warning: A potential problem that should be checked before
     importing. The file can usually still be imported, but some rows or
     values may need attention.
-
-  - Error: A problem that must be fixed before the file can be imported.
+  - ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48dGl0bGU+YWxlcnQtY2lyY2xlPC90aXRsZT4KPHBhdGggZmlsbD0iI0U1MzkzNSIgZD0iTTEyLDJBMTAsMTAgMCAwLDAgMiwxMkExMCwxMCAwIDAsMCAxMiwyMkExMCwxMCAwIDAsMCAyMiwxMkExMCwxMCAwIDAsMCAxMiwyWiIgLz48cGF0aCBmaWxsPSJibGFjayIgZD0iTTEzLDEzSDExVjdIMTNNMTMsMTdIMTFWMTVIMTMiIC8+PC9zdmc+)
+    Error: A problem that must be fixed before the file can be imported.
     Errors usually indicate missing required fields, invalid values, or
     formatting issues that prevent the import from continuing.
-
-&nbsp;
 
 - A detailed explanation of individual errors/warnings, common causes
   and trouble shooting tips can be found in Table X. Coming soon…
