@@ -29,8 +29,9 @@ code*](https://github.com/UWA-Marine-Ecology-Group-syntheses/template-synthesis)
     [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*
     .
 
-  - 3\. Then click the ⊕ next to *Select a
-    \[*Synthesis*\](hhttps://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses*![](images/image25.png)
+  - 3\. Then click the ⊕ next to \*Select a
+    [*Synthesis*](hhttps://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses*)
+    ![](images/image25.png)
 
   - Alternatively, from the landing page click *UPLOAD
     [*SYNTHESIS*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*
