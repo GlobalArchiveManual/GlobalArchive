@@ -12,9 +12,8 @@
 If you work for an organisation in a role - we recommend you consider
 using a role-based email to register for an ORCID e.g. for the UWA
 Oceans Institute we have created <https://orcid.org/0009-0007-2402-2916>
-using
-[oceans.data@uwa.edu.au](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/oceans.data@uwa.edu.au)
-to help ensure continuity of data custodianship as people change roles.
+using <oceans.data@uwa.edu.au> to help ensure continuity of data
+custodianship as people change roles.
 
 GlobalArchive uses ORCID IDs for user authentication.
 
