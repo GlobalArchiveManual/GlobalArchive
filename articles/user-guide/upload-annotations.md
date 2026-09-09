@@ -98,7 +98,9 @@ NOTE
   can exist within a
   [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
 
-  - 2021-05_Abrolhos_stereo-BRUVs - 2022-12_Abrolhos_stereo-BRUVs
+  - 2021-05_Abrolhos_stereo-BRUVs
+
+  - 2022-12_Abrolhos_stereo-BRUVs
 
 ![](images/image27.png)
 
@@ -179,16 +181,15 @@ when most but not all metadata is the same.
 
 ![](images/image1.png)
 
-NOTE
+**NOTE**
 
-- [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
+- [Campaigns](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   won’t be listed on the
-  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
-  screen until annotation data has been imported into the [*Annotation
-  Set.*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
-
+  [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
+  screen until annotation data has been imported into the [Annotation
+  Set](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
 - This means that if you need to delete a
-  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
+  [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   you will need to import data before you can delete it.
 
 ### 
@@ -247,7 +248,8 @@ NOTE
 
   - 1\. From the landing page click *UPLOAD ANNOTATIONS*
 
-  - 2\. Click the ⊕ next to *Select an Annotation Set*
+  - 2\. Click the ⊕ next to *Select an [*Annotation
+    Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)*
 
   - 3\. Use the drop down box or type the Campaign name in
 
