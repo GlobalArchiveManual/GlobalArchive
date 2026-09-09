@@ -21,7 +21,8 @@ Curated summaries of count and length data for fish and benthic assemblages, mad
 
   - 2\. Then *Import [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)* .
 
-  - 3\. Then click the ⊕ next to *Select a [<u>Synthesis</u>](hhttps://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses*<img src="images/image25.png" style="width:6.26772in;height:2.45833in" />
+  - 3\. Then click the ⊕ next to *Select a [<u>Synthesis</u>](hhttps://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses*)
+  <img src="images/image25.png" style="width:6.26772in;height:2.45833in" />
 
   - Alternatively, from the landing page click *UPLOAD [<u>SYNTHESIS</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)* and then click the ⊕ next to *Select a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*
 
