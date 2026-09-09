@@ -358,13 +358,19 @@ To import Annotations
 - Use the *Data View* section to view the rows in the uploaded data that
   are causing the flagged issues.
 
-- The **Data View** section contains three tabs:
+- The **Data View** section contains six tabs:
+
+  - *Sample Metadata*,
 
   - *Point Data*,
 
   - *3D Point Data*,
 
-  - *Length Data*
+  - *Length Data*,
+
+  - *Summary Count*,
+
+  - *Summary Length*
 
 - Each tab displays the problematic rows from the uploaded files. If
   there are no problematic rows for a particular data type, the table
@@ -438,16 +444,14 @@ To import Annotations
   is NOT a video repository and therefore your local annotation files
   remain the “true” copy of the data and any corrections must be made in
   the annotation file and then re-imported to GlobalArchive.
-
 - Please look after your annotation files.
-
 - If you have used the [EventMeasure](http://www.seagis.com.au/event.md)
   software to annotate but have made “corrections” on exported data
   (e.g. in Excel), this “corrected” data is now the “true” copy of the
   data and you should import your data as Generic Annotation files
-  (e.g. \[*count(<https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#count>)*\]
+  (e.g. [count](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#count)
   and
-  \[length(<https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#length>)\]
+  [length](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#length)
   data). However we strongly advise you to make these corrections to the
   EventMeasure annotation file (.EMObs).
 
