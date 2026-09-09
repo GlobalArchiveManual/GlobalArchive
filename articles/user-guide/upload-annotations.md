@@ -19,8 +19,8 @@ that are organised within
 
   - 1\. From the landing page click *UPLOAD ANNOTATIONS*
 
-  - 2\. Then ⊕ next to \*\<[u\>Annotation
-    Set.](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
+  - 2\. Then ⊕ next to \*[*Annotation
+    Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
 
 ![](images/image30.png)
 
@@ -98,9 +98,7 @@ NOTE
   can exist within a
   [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
 
- - 2021-05_Abrolhos_stereo-BRUVs
-
- - 2022-12_Abrolhos_stereo-BRUVs
+- 2021-05_Abrolhos_stereo-BRUVs - 2022-12_Abrolhos_stereo-BRUVs
 
 ![](images/image27.png)
 
