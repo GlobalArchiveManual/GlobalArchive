@@ -30,10 +30,10 @@ that are organised within
 > ![](images/image9.png)
 
 - A pop-up will open to *Create
-  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))*
+  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)*
 
   - 4\. Click the ⊕ to *Create
-    \[*Project*\](hhttps://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project*[*.*](http://127.0.0.1:61388/articles/user-guide/glossary.html#project)
+    [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)*
 
 ![](images/image4.png)
 
@@ -58,7 +58,7 @@ Other fields can be edited later.
 
 ![](images/image29.png)
 
-### Create a [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
+### Create a [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
 
 - 1\. Fill out all the information fields - see Definitions
 
@@ -73,7 +73,7 @@ Other fields can be edited later.
 
   - e.g. If the *Campaign Name* is “Abrolhos”, and the earliest
     stereo-BRUV
-    [*sample*](http://127.0.0.1:61388/articles/user-guide/glossary.html#sample)
+    [*sample*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample)
     was in May 2021, the
     [**CampaignID**](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaignid)
     will be: 2021-05_Abrolhos_stereo-BRUVs
@@ -83,7 +83,7 @@ Other fields can be edited later.
 NOTE
 
 - Multiple
-  [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
+  [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   within a
   [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
   can have the same Campaign Name, provided they differ in
@@ -104,13 +104,13 @@ NOTE
 
 **WARNING**
 
-- Once
-  the[*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
+- Once the
+  [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   has been created, the following fields cannot be edited
 
   - [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
   - Campaign name
-  - [*Method*](http://127.0.0.1:61388/articles/user-guide/glossary.html#method)
+  - [*Method*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#method)
 
 - Please take care when entering these in, and double check before
   clicking *CREATE*
@@ -120,11 +120,11 @@ NOTE
   Campaign Name or
   [Method](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#method),
   you will need to delete the
-  [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
+  [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   and start again
 
 - All other fields can be edited after the
-  [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/%5B%3Cu%3ECampaign%3C/u%3E%5D(https%3A/globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign))
+  [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   is created
 
 - All other fields can be edited after the
@@ -202,12 +202,12 @@ NOTE
 - Once the
   [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   has been created upload an [*Annotation
-  Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
+  Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
 
   - 1\. If the
     [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
     has just been created the
-    [*Campaign*](http://127.0.0.1:61388/articles/user-guide/glossary.html#campaign)
+    [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
     will be automatically selected
 
 - [*Annotation
@@ -258,7 +258,7 @@ NOTE
   - 4\. Select the
     [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
     the [*Annotation
-    Set*](http://127.0.0.1:61388/articles/user-guide/glossary.html#annotation-set)
+    Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
     will belong in
 
 ![](images/image21.png)
@@ -284,7 +284,7 @@ To import Annotations
 - 1\. Click *‘Add files to Annotation Set’*
 
 - 2\. Select the metadata (see [*example metadata
-  format*](http://127.0.0.1:61388/articles/user-guide/import-formats.html#sample-metadata)
+  format*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html)
   and all EMObs for the [*Annotation
   Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
   from your local computer
@@ -449,9 +449,11 @@ To import Annotations
   software to annotate but have made “corrections” on exported data
   (e.g. in Excel), this “corrected” data is now the “true” copy of the
   data and you should import your data as Generic Annotation files
-  (e.g. [*count and length data*](#id__f79ct0b51nvs)). However we
-  strongly advise you to make these corrections to the EventMeasure
-  annotation file (.EMObs).
+  (e.g. \[*count(<https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#count>)*\]
+  and
+  \[length(<https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#length>)\]
+  data). However we strongly advise you to make these corrections to the
+  EventMeasure annotation file (.EMObs).
 
 - Import of Generic Annotations is coming soon…
 
