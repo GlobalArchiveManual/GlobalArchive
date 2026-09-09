@@ -65,6 +65,7 @@ NOTE
 - For example, both of the following [<u>CampaignIDs</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaignid) can exist within a [<u>Project</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
 
   <span style="color:green; font-family: 'Roboto Mono', monospace;">- 2021-05_Abrolhos_stereo-BRUVs</span>
+  
   <span style="color:green; font-family: 'Roboto Mono', monospace;">- 2022-12_Abrolhos_stereo-BRUVs</span>
 
 <img src="images/image27.png" style="width:5.35938in;height:4.47802in" />
@@ -115,11 +116,13 @@ NOTE: You can edit the Method Metadata fields later, which is useful when most b
 
 <img src="images/image1.png" style="width:6.26772in;height:5.09722in" />
 
-NOTE
+<div style="color:#E87722">
+**NOTE**
 
-- [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) won’t be listed on the [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) screen until annotation data has been imported into the [<u>Annotation Set.</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+- [Campaigns](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) won't be listed on the [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) screen until annotation data has been imported into the [Annotation Set](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
+- This means that if you need to delete a [Campaign](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) you will need to import data before you can delete it.
 
-- This means that if you need to delete a [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) you will need to import data before you can delete it.
+</div>
 
 ##  
 
@@ -149,7 +152,7 @@ NOTE
 
   - 1\. From the landing page click *UPLOAD ANNOTATIONS*
 
-  - 2\. Click the ⊕ next to *Select an Annotation Set*
+  - 2\. Click the ⊕ next to *Select an [<u>Annotation Set</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)*
 
   - 3\. Use the drop down box or type the Campaign name in
 
