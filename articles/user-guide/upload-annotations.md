@@ -176,7 +176,7 @@ Below is an example of complete Method Metadata for a stereo-BRUVs
 
 4.  Then *CREATE*.
 
-    **NOTE**
+**NOTE**
 
 You can edit the Method Metadata fields later, which is useful when most
 but not all metadata is the same.
@@ -258,3 +258,202 @@ but not all metadata is the same.
       will belong in
 
 ![](images/image21.png)
+
+### Importing Annotations
+
+- 1\. If the [*Annotation
+  Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+  has just been created, it will automatically be selected and is ready
+  to start importing data
+
+- If the [*Annotation
+  Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+  hasn’t just been created
+
+  - 1\. On the landing page click *UPLOAD ANNOTATION*
+
+  - 2\. In the ‘*Select a Annotation Set*’ box type in the Annotation
+    set name or select it from the drop down menu
+
+To import Annotations
+
+- 1\. Click *‘Add files to Annotation Set’*
+
+- 2\. Select the metadata (see [*example metadata
+  format*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html)
+  and all EMObs for the [*Annotation
+  Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+  from your local computer
+
+- Alternatively drag and drop the metadata and EMObs into the *‘Add
+  files to Annotation Set’* section
+
+![](images/image24.png)
+
+- 1\. Click the drop down arrow next to the imports to check the status
+
+- 2\. If there is a tick in the *Status* column, the files are ready
+
+![](images/image22.png)
+
+- Next
+
+  - 3 & 4. Select the taxonomic vocabulary used
+
+  - NOTE currently the only option is the *Australian Aquatic Fauna
+    (CAAB+WORMS+FishBase)* and *AphiaID Taxonomy*.
+
+  - This will add the vocabulary and refresh the screen, showing any
+    errors with the uploads
+
+![](images/image8.png)
+
+#### Check for Issues
+
+- Scroll to the *Issues* section.
+
+- The *Issues* section lists any problems detected in the uploaded data.
+  Each row shows:
+
+  - the type of issue
+
+  - a description of the issue
+
+  - the percentage of rows affected
+
+&nbsp;
+
+- The *Type* column indicates the severity of the issue:
+
+  - ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48dGl0bGU+CmluZm9ybWF0aW9uCjwvdGl0bGU+CjxwYXRoIGZpbGw9IiMxRTg4RTUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCwwIDIsMTJBMTAsMTAgMCAwLDAgMTIsMjJBMTAsMTAgMCAwLDAgMjIsMTJBMTAsMTAgMCAwLDAgMTIsMloiIC8+PHBhdGggZmlsbD0iYmxhY2siIGQ9Ik0xMyw5SDExVjdIMTNNMTMsMTdIMTFWMTFIMTMiIC8+PC9zdmc+)
+    Info: General information about the data. These messages do not
+    prevent the file from being imported but may highlight something
+    useful to review.
+  - ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48dGl0bGU+CmFsZXJ0CjwvdGl0bGU+CjxwYXRoIGZpbGw9IiNFODc3MjIiIGQ9Ik0xIDIxSDIzTDEyIDJMMSAyMVoiIC8+PHBhdGggZmlsbD0iYmxhY2siIGQ9Ik0xMyAxNEgxMVY5SDEzTTEzIDE4SDExVjE2SDEzIiAvPjwvc3ZnPg==)
+    Warning: A potential problem that should be checked before
+    importing. The file can usually still be imported, but some rows or
+    values may need attention.
+  - ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48dGl0bGU+CmFsZXJ0LWNpcmNsZQo8L3RpdGxlPgo8cGF0aCBmaWxsPSIjRTUzOTM1IiBkPSJNMTIsMkExMCwxMCAwIDAsMCAyLDEyQTEwLDEwIDAgMCwwIDEyLDIyQTEwLDEwIDAgMCwwIDIyLDEyQTEwLDEwIDAgMCwwIDEyLDJaIiAvPjxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMTMsMTNIMTFWN0gxM00xMywxN0gxMVYxNUgxMyIgLz48L3N2Zz4=)
+    Error: A problem that must be fixed before the file can be imported.
+    Errors usually indicate missing required fields, invalid values, or
+    formatting issues that prevent the import from continuing.
+
+- A detailed explanation of individual errors/warnings, common causes
+  and trouble shooting tips can be found in Table X. Coming soon…
+
+- Use the
+  ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMUU4OEU1Ij48dGl0bGU+ZXllLW91dGxpbmU8L3RpdGxlPgo8cGF0aCBkPSJNMTIsOUEzLDMgMCAwLDEgMTUsMTJBMywzIDAgMCwxIDEyLDE1QTMsMyAwIDAsMSA5LDEyQTMsMyAwIDAsMSAxMiw5TTEyLDQuNUMxNyw0LjUgMjEuMjcsNy42MSAyMywxMkMyMS4yNywxNi4zOSAxNywxOS41IDEyLDE5LjVDNywxOS41IDIuNzMsMTYuMzkgMSwxMkMyLjczLDcuNjEgNyw0LjUgMTIsNC41TTMuMTgsMTJDNC44MywxNS4zNiA4LjI0LDE3LjUgMTIsMTcuNUMxNS43NiwxNy41IDE5LjE3LDE1LjM2IDIwLjgyLDEyQzE5LjE3LDguNjQgMTUuNzYsNi41IDEyLDYuNUM4LjI0LDYuNSA0LjgzLDguNjQgMy4xOCwxMloiIC8+PC9zdmc+)
+  icon to filter the data view so that only the rows causing the
+  selected issue are displayed. This is useful when you want to inspect
+  the affected records directly, check what needs to be corrected, or
+  focus on one issue at a time without viewing all the problematic rows
+  at once.
+
+- In the *Cause* column, hover your cursor over the
+  ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIj48dGl0bGU+aGVscC1jaXJjbGU8L3RpdGxlPgo8cGF0aCBmaWxsPSIjMUU4OEU1IiBkPSJNMTIsMkExMCwxMCAwIDAsMCAyLDEyQTEwLDEwIDAgMCwwIDEyLDIyQTEwLDEwIDAgMCwwIDIyLDEyQzIyLDYuNDcgMTcuNSwyIDEyLDJaIiAvPjxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMTUuMDcsMTEuMjVMMTQuMTcsMTIuMTdDMTMuNDUsMTIuODkgMTMsMTMuNSAxMywxNUgxMVYxNC41QzExLDEzLjM5IDExLjQ1LDEyLjM5IDEyLjE3LDExLjY3TDEzLjQxLDEwLjQxQzEzLjc4LDEwLjA1IDE0LDkuNTUgMTQsOUMxNCw3Ljg5IDEzLjEsNyAxMiw3QTIsMiAwIDAsMCAxMCw5SDhBNCw0IDAgMCwxIDEyLDVBNCw0IDAgMCwxIDE2LDlDMTYsOS44OCAxNS42NCwxMC42NyAxNS4wNywxMS4yNU0xMywxOUgxMVYxN0gxMyIgLz48L3N2Zz4=)
+  symbol to view more details about the issue, including the affected
+  file, columns or rows, and the percentage of rows affected.
+
+![](images/image3.png)
+
+- Use the *Data View* section to view the rows in the uploaded data that
+  are causing the flagged issues.
+
+- The **Data View** section contains six tabs:
+
+  - *Sample Metadata*,
+
+  - *Point Data*,
+
+  - *3D Point Data*,
+
+  - *Length Data*,
+
+  - *Summary Count*,
+
+  - *Summary Length*
+
+- Each tab displays the problematic rows from the uploaded files. If
+  there are no problematic rows for a particular data type, the table
+  will be blank.
+
+- Cells containing an issue are highlighted in **orange**. Hover over a
+  highlighted cell to view a description of the issue.
+
+- At the bottom of the *Data View table*, you can change how many rows
+  are displayed per page.
+
+- Use the page arrows to move between pages of flagged rows.
+
+- Use the horizontal scroll bar to scroll across the table and view
+  additional columns. This is useful for reviewing more information
+  about the errors, including details in the EMObs columns.
+
+- After reviewing the flagged rows, you will need to decide whether the
+  issue represents a genuine problem in the data. If the data needs to
+  be corrected, return to the original annotation files in EventMeasure
+  and fix the issue at the source. Once the source files have been
+  corrected, re-upload the files and check the issues panel again.
+
+- Once you are happy with your uploads click *‘Import Data’.*
+
+![](images/image7.png)
+
+**EXAMPLE**:
+
+- The screengrab below shows the *Issues Overview section* filtered to
+  one issue ‘‘The 3D Point Annotation data contain rows with blank or
+  missing values in the ‘period’ column’.
+
+- The 3D Point Data tab lists the opcodes affected by the selected
+  issue.
+
+- The cells containing the issue are highlighted in orange.
+
+- The affected cells are in the period column, there are no values in
+  the period column because the annotations are outside of a period
+  definition.
+
+- The user will review all the 3D measurements that are outside of the
+  period, and check the values in the other columns. By looking at the
+  comment column, we can see that a comment exists for each cell ‘sync
+  point’.
+
+- 3D points without a period are commonly used to set a ‘sync point’ in
+  EventMeasure, as long as there are no values in Family, Genus, Species
+  or Number.
+
+- Therefore, in this example the user will ignore this warning and
+  continue with the import after checking that the 3D measurements
+  flagged are all sync points.
+
+- If there was a 3D point outside of the period with information in the
+  Family, Genus and Species columns.
+
+- The user would open the EMObs on EventMeasure and check it.
+
+  - If it needed to be changed, the user would fix it and save the
+    EMObs, delete the existing EMObs file on GlobalArchive and upload
+    the fixed one.
+
+![](images/image33.png)
+
+**NOTE**
+
+- GlobalArchive provides a complete archive of all the information held
+  with an EventMeasure annotation file (.EMObs). However, GlobalArchive
+  is NOT a video repository and therefore your local annotation files
+  remain the “true” copy of the data and any corrections must be made in
+  the annotation file and then re-imported to GlobalArchive.
+- Please look after your annotation files.
+- If you have used the [EventMeasure](http://www.seagis.com.au/event.md)
+  software to annotate but have made “corrections” on exported data
+  (e.g. in Excel), this “corrected” data is now the “true” copy of the
+  data and you should import your data as Generic Annotation files
+  (e.g. [count](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#count)
+  and
+  [length](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#length)
+  data). However we strongly advise you to make these corrections to the
+  EventMeasure annotation file (.EMObs).
+
+- Import of Generic Annotations is coming soon…
