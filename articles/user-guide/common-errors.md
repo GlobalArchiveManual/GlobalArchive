@@ -9,7 +9,9 @@ soon…..
 
 EXAMPLE 1:
 
-- This error occurs in [*Annotation Set*](#id__244z831h9k4k) Uploads
+- This error occurs in [*Annotation
+  Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+  Uploads
 
 - Some EMObs use 60-minute periods for video annotation periods, that
   begins when the video system contacts the ground.
@@ -24,7 +26,9 @@ EXAMPLE 1:
 
 EXAMPLE 2:
 
-- This error occurs in [*Synthesis*](#synthesis) Uploads
+- This error occurs in
+  [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+  Uploads
 
 - The below warning is occurring due to data from metadata not matching
   the benthos count data that has been uploaded.
@@ -40,19 +44,23 @@ EXAMPLE 2:
 EXAMPLE 3:
 
 - This error occurs in [*Annotation
-  Set*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.244z831h9k4k)
-  and [*Synthesis*](#synthesis) Uploads
+  Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+  and
+  [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+  Uploads
 
-- The below warning occurs due to [*samples*](#sample) sharing identical
-  coordinates.
+- The below warning occurs due to
+  [*samples*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample)
+  sharing identical coordinates.
 
 - Click the to view the affected metadata rows. In this case the
   duplicates correspond to repeated cases where the initial deployment
   was unsuccessful (e.g. landing upside down or being retrieved too
   early).
 
-- As the first [*sample*](#sample) has already been recorded as
-  unsuccessful, no action is required.
+- As the first
+  [*sample*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample)
+  has already been recorded as unsuccessful, no action is required.
 
 ![](images/image23.png)
 
