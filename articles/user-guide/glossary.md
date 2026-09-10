@@ -102,7 +102,7 @@
 #### Type
 
 - The category that best describes the primary context or intended use
-  of the [*Synthesis*](#synthesis/syntheses).
+  of the [*Synthesis*](#synthesissyntheses).
 
 - Cultural, Academic, Industry or Management
 
@@ -133,13 +133,13 @@
 
 #### Synthesis
 
-- A [*Synthesis*](http://Synthesis/Syntheses) is designed for sharing of
+- A [*Synthesis*](http://SynthesisSyntheses) is designed for sharing of
   data from multiple [*Campaigns*](#campaign) for data analysis.
 
-- The User who created the [*Synthesis*](#synthesis/Syntheses) is the
-  Custodian of the [*Synthesis*](#Synthesis/Syntheses).
+- The User who created the [*Synthesis*](#synthesisSyntheses) is the
+  Custodian of the [*Synthesis*](#Synthesissyntheses).
 
-- Only the Custodian can share the [*Synthesis*](#Synthesis/Syntheses)
+- Only the Custodian can share the [*Synthesis*](#SynthesisSyntheses)
   with other Users.
 
 #### User
