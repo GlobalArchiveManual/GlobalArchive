@@ -18,7 +18,7 @@ on GlobalArchive.
   script.
 
 - This script can be used the combine the data of multiple
-  [*Campaigns*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl)
+  [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
   into 1 file![](images/image11.png)
 
 More handy R workflows coming soon…
