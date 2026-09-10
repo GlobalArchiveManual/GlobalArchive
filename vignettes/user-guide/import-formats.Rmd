@@ -17,6 +17,7 @@ output: html_document
 
 - Any unsupported columns will be ignored and removed during ingestion, but the original files uploaded are available for download. Coming soon…
 
+
 **Table 1.** Column and formatting requirements of the sample metadata file, note the tables described below are transposed (rows for columns) for formatting convenience.
 
 <table class="wide-table">
@@ -72,12 +73,12 @@ output: html_document
 <tr class="header">
 <td>site</td>
 <td>String. The scale of sites are up to the user to define.</td>
-<td style="text-align:center;">✖</td>
+<td style="text-align:center; color:red;">✖</td>
 </tr>
 <tr class="odd">
 <td>location</td>
 <td>String. The scale of locations are up to the user to define.</td>
-<td style="text-align:center;">✖</td>
+<td style="text-align:center; color:red;">✖</td>
 </tr>
 <tr class="header">
 <td>status</td>
@@ -114,22 +115,22 @@ output: html_document
 <tr class="header">
 <td>successful_habitat_forward</td>
 <td>String (must be Yes or No)</td>
-<td style="text-align:center;">✖</td>
+<td style="text-align:center; color:red;">✖</td>
 </tr>
 <tr class="odd">
 <td>successful_habitat_backward</td>
 <td>String (must be Yes or No)</td>
-<td style="text-align:center;">✖</td>
+<td style="text-align:center; color:red;">✖</td>
 </tr>
 <tr class="header">
 <td>observer_habitat_forward</td>
 <td>String (full name), cannot be NA</td>
-<td style="text-align:center;">✖</td>
+<td style="text-align:center; color:red;">✖</td>
 </tr>
 <tr class="odd">
 <td>observer_habitat_backward</td>
 <td>String (full name), cannot be NA</td>
-<td style="text-align:center;">✖</td>
+<td style="text-align:center; color:red;">✖</td>
 </tr>
 </tbody>
 </table>
@@ -146,6 +147,7 @@ output: html_document
 
 </div>
 
+
 #### Metadata Examples
 
 - We have provided example templates for both [<u>BRUV</u>](https://docs.google.com/spreadsheets/d/1hPK8VFqNDw0bgT92T14BBHAqX6aykmGpcpDFiHo8LcU/edit?gid=0#gid=0) and [<u>BOSS</u>](https://docs.google.com/spreadsheets/d/1hPK8VFqNDw0bgT92T14BBHAqX6aykmGpcpDFiHo8LcU/edit?gid=893435245#gid=893435245) metadata.
@@ -160,11 +162,13 @@ output: html_document
 
   - These templates can be copied for your own metadata, but rows 2–4 must be removed before entering new data.
 
+
 ### Sample Metadata for Synthesis
 
 The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) are very similar. The primary difference is that [<u>synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) metadata must include a [<u>campaignid</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaignid) column (Table 3). This is required because a [<u>synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) may combine data from multiple [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign), and the [<u>campaignid</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaignid) identifies the [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) associated with each [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
 - Recommended naming suffix: \_metadata.csv
+
 
 **Table 3**. First three lines of an example [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) sample metadata file from a stereo-BRUVs [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) that used additional backwards facing cameras for habitat annotation. The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
@@ -178,6 +182,7 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 
 </div>
 
+
 ### Count
 
 - A Count file is required for [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) imports.
@@ -186,7 +191,8 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 
 - Recommended naming suffix: \_count.csv
 
-**Table 4**. First four lines of an example Count file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
+
+Table 4**. First four lines of an example Count file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
 <div class="table-scroll import-formats-wide">
 
@@ -199,6 +205,7 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 
 </div>
 
+
 ### Length
 
 - A Length file is required for [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) imports.
@@ -206,6 +213,7 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 - Length file must be provided as a comma-separated values (.csv) file.
 
 - Recommended naming suffix: \_length.csv
+
 
 **Table 5**.First four lines of an example Length file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
@@ -220,11 +228,13 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 
 </div>
 
+
 ### Habitat
 
 The strongly recommended benthos annotation method is to use a random-point approach. Where 20 points are randomly selected in the bottom 50% of the image. Using the bottom 50% of the image reduces the amount of open water annotations.
 
 The strongly recommended relief annotation method is to use a 5 x 4 grid composing of 20 rectangles, we then annotate the relief of each grid-cell by scaling them from completely featureless and flat, up to highly complex.
+
 
 ### Benthos Count File
 
@@ -233,6 +243,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 - Benthos Count file must be provided as a comma-separated values (.csv) file.
 
 - Recommended naming suffix: \_benthos-count.csv
+
 
 **Table 6**. First four lines of an example Benthos Count file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
@@ -247,6 +258,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 
 </div>
 
+
 ### Benthos Length File
 
 - A Benthos Length file is required for [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) imports.
@@ -254,6 +266,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 - Benthos Length file must be provided as a comma-separated values (.csv) file.
 
 - Recommended naming suffix: \_benthos-length.csv
+
 
 **Table 7**. First four lines of an example Benthos Length file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
@@ -268,6 +281,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 
 </div>
 
+
 ### Benthos Relief File
 
 - A Benthos Relief file is required for [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) imports.
@@ -275,6 +289,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 - Benthos Relief file must be provided as a comma-separated values (.csv) file.
 
 - Recommended naming suffix: \_benthos-relief.csv
+
 
 **Table 8**. First four lines of an example Benthos Relief file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
