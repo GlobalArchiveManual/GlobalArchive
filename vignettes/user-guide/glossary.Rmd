@@ -11,9 +11,9 @@ output: html_document
 
 - Contains one to multiple [<u>Campaign</u>](#campaign)s with a shared purpose/objective (e.g. monitoring of a Marine Park, a bioregional study).
 
-- [<u>Project</u>](#_1a4bxgjenifp) is a unique identifier and the name should be carefully chosen (e.g. “MarineParkMonitoring” is not a good [<u>Project</u>](#_1a4bxgjenifp) name but “Houtman Abrolhos Reef Observation Areas long-term monitoring” is a great [<u>Project</u>](#_1a4bxgjenifp) name)
+- [<u>Project</u>](#project) is a unique identifier and the name should be carefully chosen (e.g. “MarineParkMonitoring” is not a good [<u>Project</u>](#project) name but “Houtman Abrolhos Reef Observation Areas long-term monitoring” is a great [<u>Project</u>](#project) name)
 
-- Sampling and image analysis methods are generally standardised within a [<u>Project</u>](#_1a4bxgjenifp) but sampling method for each [<u>Campaign</u>](#campaign) can be different (e.g. one [<u>Campaign</u>](#campaign) could use DOV whereas another [<u>Campaign</u>](#campaign) could use BRUV or UVC).
+- Sampling and image analysis methods are generally standardised within a [<u>Project</u>](#project) but sampling method for each [<u>Campaign</u>](#campaign) can be different (e.g. one [<u>Campaign</u>](#campaign) could use DOV whereas another [<u>Campaign</u>](#campaign) could use BRUV or UVC).
 
 #### Scale
 
@@ -66,7 +66,7 @@ output: html_document
 
 - The approved controlled vocabularies used in EMObs to standardise annotation of fish, benthic biota, and substrates.
 
-- These ensure annotations are applied consistently and can be compared across [<u>projects</u>](#projects) and datasets.
+- These ensure annotations are applied consistently and can be compared across [<u>projects</u>](#project) and datasets.
 
 ### Synthesis terms
 
@@ -90,9 +90,9 @@ output: html_document
 
 #### Custodian
 
-- A [<u>user</u>](#user) who creates a [<u>Project</u>](#project), and the [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) within it, is the Custodian.
+- A [<u>user</u>](#user) who creates a [<u>Project</u>](#project), and the [<u>Campaigns</u>](#campaign) within it, is the Custodian.
 
-- Only the Custodian can upload [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) to that [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp) and share the [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) or the entire [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp) with other [<u>Users</u>](#user).
+- Only the Custodian can upload [<u>Campaigns</u>](#campaign) to that [<u>Project</u>](#project) and share the [<u>Campaigns</u>](#campaign) or the entire [<u>Project</u>](#project) with other [<u>Users</u>](#user).
 
 - The Custodian should be the person within the institution with a long term interest in the data and the person who should be contacted if another user wants to use the data (e.g. will more likely be a Principal Investigator than a research assistant).
 
@@ -100,19 +100,19 @@ output: html_document
 
 - [<u>Projects</u>](#project) are typically to organise data within a research group/organisation (e.g. Monitoring of a specific marine park by the NSW Department of Primary Industries).
 
-- Sharing a [<u>Project</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.l7x8x11101qp) with another [<u>User</u>](#user) allows them to query all [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) within it.
+- Sharing a [<u>Project</u>](#project) with another [<u>User</u>](#user) allows them to query all [<u>Campaigns</u>](#campaign) within it.
 
 #### Synthesis
 
-- A [<u>Synthesis</u>](http://synthesis/Syntheses) is designed for sharing of data from multiple [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) for data analysis.
+- A [<u>Synthesis</u>](http://synthesis/Syntheses) is designed for sharing of data from multiple [<u>Campaigns</u>](#campaign) for data analysis.
 
-- The User who created the [<u>Synthesis</u>](http://synthesis/Syntheses) is the Custodian of the [<u>Synthesis</u>](http://synthesis/Syntheses).
+- The User who created the [<u>Synthesis</u>](#synthesis/Syntheses) is the Custodian of the [<u>Synthesis</u>](#synthesis/Syntheses).
 
-- Only the Custodian can share the [<u>Synthesis</u>](http://synthesis/Syntheses) with other Users.
+- Only the Custodian can share the [<u>Synthesis</u>](#synthesis/Syntheses) with other Users.
 
 #### User
 
-- User registration and login provides secure access to the [<u>Campaigns</u>](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl) and [<u>Projects</u>](#project) you upload and that are shared with you.
+- User registration and login provides secure access to the [<u>Campaigns</u>](#campaign) and [<u>Projects</u>](#project) you upload and that are shared with you.
 
 ## Appendix 2 - How to download and summarise annotation data
 
