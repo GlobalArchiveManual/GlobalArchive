@@ -16,7 +16,7 @@ output: html_document
 - GlobalArchive requires specific columns (listed in Table 1), including defined formats and validation rules applied during import (see example in Table 1).
 
 - Any unsupported columns will be ignored and removed during ingestion, but the original files uploaded are available for download. Coming soon…
-
+ 
 
 **Table 1.** Column and formatting requirements of the sample metadata file, note the tables described below are transposed (rows for columns) for formatting convenience.
 
