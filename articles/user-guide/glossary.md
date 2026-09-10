@@ -43,10 +43,9 @@
 
 #### CampaignID
 
-- A unique identifier for a [*Campaign*](#campaign) made up of
+- A unique identifier for a [Campaign](#campaign) made up of
   YYYY-MM_Campaign_Method.
-
-- The date is the start date of the [*Campaign*](#campaign)
+- The date is the start date of the [Campaign](#campaign)
   (e.g. 2023-12_Rottnest-Island-Marine-Parks_stereo-BRUVs).
 
 #### Annotation Set
