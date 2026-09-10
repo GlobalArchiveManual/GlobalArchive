@@ -60,8 +60,6 @@ output: html_document
 
 <!-- -->
 
-- 
-
 #### Vocabularies
 
 - The approved controlled vocabularies used in EMObs to standardise annotation of fish, benthic biota, and substrates.
@@ -76,13 +74,13 @@ output: html_document
 
 #### Scale
 
-- The geographic extent at which the [<u>Synthesis</u>](#synthesis) is relevant or intended to be applied
+- The geographic extent at which the [<u>Synthesis</u>](#synthesis/syntheses) is relevant or intended to be applied
 
 - International, National, Regional or Local
 
 #### Type
 
-- The category that best describes the primary context or intended use of the [<u>Synthesis</u>](#synthesis).
+- The category that best describes the primary context or intended use of the [<u>Synthesis</u>](#synthesis/syntheses).
 
 - Cultural, Academic, Industry or Management
 
@@ -104,11 +102,11 @@ output: html_document
 
 #### Synthesis
 
-- A [<u>Synthesis</u>](http://synthesis/Syntheses) is designed for sharing of data from multiple [<u>Campaigns</u>](#campaign) for data analysis.
+- A [<u>Synthesis</u>](http://Synthesis/Syntheses) is designed for sharing of data from multiple [<u>Campaigns</u>](#campaign) for data analysis.
 
-- The User who created the [<u>Synthesis</u>](#synthesis/Syntheses) is the Custodian of the [<u>Synthesis</u>](#synthesis/Syntheses).
+- The User who created the [<u>Synthesis</u>](#synthesis/Syntheses) is the Custodian of the [<u>Synthesis</u>](#Synthesis/Syntheses).
 
-- Only the Custodian can share the [<u>Synthesis</u>](#synthesis/Syntheses) with other Users.
+- Only the Custodian can share the [<u>Synthesis</u>](#Synthesis/Syntheses) with other Users.
 
 #### User
 
