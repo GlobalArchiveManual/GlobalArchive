@@ -51,7 +51,7 @@
 #### Annotation Set
 
 - A collection of annotations from a defined set of [*samples*](#sample)
-  within a [*Campaign*](#campaign) , grouped together as a single
+  within a [*Campaign*](#campaign), grouped together as a single
   dataset.
 
 #### Annotation Metadata
@@ -65,15 +65,17 @@
 #### Method
 
 - Any sampling [*method*](#method) (e.g. stereo-BRUVs, stereo-DOVs,
-  UVC). Contact Administrator to create a new Method.  
-  Defined in the “[*Methods*](#method)” tab.
+  UVC).
+- Defined in the “[*Methods*](#method)” tab.
+- Contact [*Administrator*](mailto:tim.langlois@uwa.edu.au) to create a
+  new [*Methods*](#method).
 
 #### Sample
 
 - Single observational unit (e.g. a BRUV deployment or DOV transect).  
-  Must match exactly across sample metadata and any annotation/EMObs
+- Must match exactly across sample metadata and any annotation/EMObs
   files.  
-  Defined by opcode only, period only, or opcode + period.
+- Defined by opcode only, period only, or opcode + period.
 
 #### Vocabularies
 
