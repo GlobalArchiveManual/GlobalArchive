@@ -76,10 +76,6 @@
   files.  
   Defined by opcode only, period only, or opcode + period.
 
-&nbsp;
-
-- 
-
 #### Vocabularies
 
 - The approved controlled vocabularies used in EMObs to standardise
@@ -98,15 +94,15 @@
 
 #### Scale
 
-- The geographic extent at which the [*Synthesis*](#synthesis) is
-  relevant or intended to be applied
+- The geographic extent at which the [*Synthesis*](#synthesis/syntheses)
+  is relevant or intended to be applied
 
 - International, National, Regional or Local
 
 #### Type
 
 - The category that best describes the primary context or intended use
-  of the [*Synthesis*](#synthesis).
+  of the [*Synthesis*](#synthesis/syntheses).
 
 - Cultural, Academic, Industry or Management
 
@@ -137,13 +133,13 @@
 
 #### Synthesis
 
-- A [*Synthesis*](http://synthesis/Syntheses) is designed for sharing of
+- A [*Synthesis*](http://Synthesis/Syntheses) is designed for sharing of
   data from multiple [*Campaigns*](#campaign) for data analysis.
 
 - The User who created the [*Synthesis*](#synthesis/Syntheses) is the
-  Custodian of the [*Synthesis*](#synthesis/Syntheses).
+  Custodian of the [*Synthesis*](#Synthesis/Syntheses).
 
-- Only the Custodian can share the [*Synthesis*](#synthesis/Syntheses)
+- Only the Custodian can share the [*Synthesis*](#Synthesis/Syntheses)
   with other Users.
 
 #### User
