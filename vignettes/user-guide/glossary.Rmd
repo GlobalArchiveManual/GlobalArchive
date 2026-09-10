@@ -37,7 +37,7 @@ output: html_document
 
 #### Annotation Set
 
-- A collection of annotations from a defined set of [<u>samples</u>](#sample) within a [<u>Campaign</u>](#campaign) , grouped together as a single dataset.
+- A collection of annotations from a defined set of [<u>samples</u>](#sample) within a [<u>Campaign</u>](#campaign), grouped together as a single dataset.
 
 #### Annotation Metadata
 
@@ -47,14 +47,16 @@ output: html_document
 
 #### Method
 
-- Any sampling [<u>method</u>](#method) (e.g. stereo-BRUVs, stereo-DOVs, UVC). Contact Administrator to create a new Method.  
-  Defined in the “[<u>Methods</u>](#method)” tab.
+- Any sampling [<u>method</u>](#method) (e.g. stereo-BRUVs, stereo-DOVs, UVC). 
+- Defined in the “[<u>Methods</u>](#method)” tab.
+- Contact [<u>Administrator</u>](mailto:tim.langlois@uwa.edu.au) to create a new [<u>Methods</u>](#method).  
+
 
 #### Sample
 
 - Single observational unit (e.g. a BRUV deployment or DOV transect).  
-  Must match exactly across sample metadata and any annotation/EMObs files.  
-  Defined by opcode only, period only, or opcode + period.
+- Must match exactly across sample metadata and any annotation/EMObs files.  
+- Defined by opcode only, period only, or opcode + period.
 
 <!-- -->
 
