@@ -110,7 +110,7 @@ The opcode column is used to define the
 
 - Recommended naming suffix: \_count.csv
 
-**Table 4**. First four lines of an example Count file from two
+Table 4\*\*. First four lines of an example Count file from two
 stereo-BRUVs
 [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
 ready to be imported into a
