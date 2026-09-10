@@ -37,7 +37,7 @@ output: html_document
 <tr class="odd">
 <td>opcode</td>
 <td>String</td>
-<td><p style="text-align:center;">✔</p>
+<td><p style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#2E7D32" d="M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41-1.41z"/></svg></p>
 <p><em>if opcodes were used to define a sample.</em></p>
 <p><em>DON’T include this column if it is not required to define a sample.</em></p></td>
 </tr>
@@ -50,12 +50,12 @@ output: html_document
 <tr class="odd">
 <td>latitude_dd</td>
 <td>Decimal degrees. Must be between -90 to 90.</td>
-<td style="text-align:center;">✔</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#2E7D32" d="M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41-1.41z"/></svg></td>
 </tr>
 <tr class="header">
 <td>longitude_dd</td>
 <td>Decimal degrees. Must be between -180 to 180.</td>
-<td style="text-align:center;">✔</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#2E7D32" d="M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41-1.41z"/></svg></td>
 </tr>
 <tr class="odd">
 <td>date_time</td>
@@ -68,39 +68,39 @@ output: html_document
 <p>mm = two digits of minute (00 through 59)</p>
 <p>ss = two digits of second (00 through 59)</p>
 <p>TZD = time zone designator (Z or +hh:mm or -hh:mm)</p></td>
-<td style="text-align:center;">✔</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#2E7D32" d="M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41-1.41z"/></svg></td>
 </tr>
 <tr class="header">
 <td>site</td>
 <td>String. The scale of sites are up to the user to define.</td>
-<td style="text-align:center; color:red;">✖</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#D32F2F" d="M19,6.41L17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12z"/></svg></td>
 </tr>
 <tr class="odd">
 <td>location</td>
 <td>String. The scale of locations are up to the user to define.</td>
-<td style="text-align:center; color:red;">✖</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#D32F2F" d="M19,6.41L17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12z"/></svg></td>
 </tr>
 <tr class="header">
 <td>status</td>
 <td>MPA status (must be Fished, No-take, I, II, III, IV, V, VI)</td>
-<td style="text-align:center;">✔</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#2E7D32" d="M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41-1.41z"/></svg></td>
 </tr>
 <tr class="odd">
 <td>depth_m</td>
 <td>Floating point number (meters)</td>
-<td style="text-align:center;">✔</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#2E7D32" d="M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41-1.41z"/></svg></td>
 </tr>
 <tr class="header">
 <td>successful_count</td>
 <td><p>String (must be Yes or No)</p>
 <p>Was the sample annotated for count and will that data be included in any analysis?</p></td>
-<td style="text-align:center;">✔</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#2E7D32" d="M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41-1.41z"/></svg></td>
 </tr>
 <tr class="odd">
 <td>successful_length</td>
 <td><p>String (must be Yes or No)</p>
 <p>Was the sample annotated for length and will that data be included in any analysis?</p></td>
-<td style="text-align:center;">✔</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#2E7D32" d="M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41-1.41z"/></svg></td>
 </tr>
 <tr class="header">
 <td>observer_count</td>
@@ -115,25 +115,26 @@ output: html_document
 <tr class="header">
 <td>successful_habitat_forward</td>
 <td>String (must be Yes or No)</td>
-<td style="text-align:center; color:red;">✖</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#D32F2F" d="M19,6.41L17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12z"/></svg></td>
 </tr>
 <tr class="odd">
 <td>successful_habitat_backward</td>
 <td>String (must be Yes or No)</td>
-<td style="text-align:center; color:red;">✖</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#D32F2F" d="M19,6.41L17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12z"/></svg></td>
 </tr>
 <tr class="header">
 <td>observer_habitat_forward</td>
 <td>String (full name), cannot be NA</td>
-<td style="text-align:center; color:red;">✖</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#D32F2F" d="M19,6.41L17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12z"/></svg></td>
 </tr>
 <tr class="odd">
 <td>observer_habitat_backward</td>
 <td>String (full name), cannot be NA</td>
-<td style="text-align:center; color:red;">✖</td>
+<td style="text-align:center;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18"><path fill="#D32F2F" d="M19,6.41L17.59,5 12,10.59 6.41,5 5,6.41 10.59,12 5,17.59 6.41,19 12,13.41 17.59,19 19,17.59 13.41,12z"/></svg></td>
 </tr>
 </tbody>
 </table>
+
 
 **Table 2.** First three lines of an example Annotation sample metadata file from a stereo-BRUVs [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) that used additional backwards facing cameras for habitat annotation. The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
