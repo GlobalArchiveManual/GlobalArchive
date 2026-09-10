@@ -136,7 +136,7 @@ output: html_document
 
 **Table 2.** First three lines of an example Annotation sample metadata file from a stereo-BRUVs [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) that used additional backwards facing cameras for habitat annotation. The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
-<div class="table-scroll">
+<div class="table-scroll import-formats-wide">
 
 | **opcode** | **latitude_dd** | **longitude_dd** | **date_time**             | **site** | **location** | **status** | **depth_m** | **successful_count** | **successful_length** | **observer_count** | **observer_length** | **successful_habitat_forward** | **successful_habitat_backward** | **observer_habitat_forward** | **observer_habitat_backward** |
 |------------|-----------------|------------------|---------------------------|----------|--------------|------------|-------------|----------------------|-----------------------|--------------------|---------------------|--------------------------------|---------------------------------|------------------------------|-------------------------------|
@@ -168,7 +168,7 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 
 **Table 3**. First three lines of an example [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses) sample metadata file from a stereo-BRUVs [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) that used additional backwards facing cameras for habitat annotation. The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
-<div class="table-scroll">
+<div class="table-scroll import-formats-wide">
 
 | **campaignid**                | **opcode** | **status** | **latitude_dd** | **longitude_dd** | **date_time**             | **site** | **location** | **depth_m** | **successful_count** | **successful_length** | **observer_count** | **observer_length** | **successful_habitat_forward** | **successful_habitat_backward** | **observer_habitat_forward** | **observer_habitat_backward** |
 |-------------------------------|------------|------------|-----------------|------------------|---------------------------|----------|--------------|-------------|----------------------|-----------------------|--------------------|---------------------|--------------------------------|---------------------------------|------------------------------|-------------------------------|
@@ -188,7 +188,7 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 
 **Table 4**. First four lines of an example Count file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
-<div class="table-scroll">
+<div class="table-scroll import-formats-wide">
 
 | **campaignid**                            | **opcode** | **family**    | **genus**    | **species** | **count** | **stage** | **caab_code** |
 |--------------------------------------------|------------|---------------|--------------|-------------|-----------|-----------|---------------|
@@ -209,7 +209,7 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 
 **Table 5**.First four lines of an example Length file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
-<div class="table-scroll">
+<div class="table-scroll import-formats-wide">
 
 | **campaignid**                            | **opcode** | **caab_code** | **count** | **family**    | **genus**  | **species** | **length_mm** | **precision_mm** | **range_mm** | **rms_mm** | **stage** |
 |---------------------------------------------|------------|---------------|-----------|---------------|------------|-------------|---------------|------------------|--------------|------------|-----------|
@@ -236,7 +236,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 
 **Table 6**. First four lines of an example Benthos Count file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
-<div class="table-scroll">
+<div class="table-scroll import-formats-wide">
 
 | **campaignid**                | **opcode** | **level_1** | **level_2** | **level_3**           | **level_4**        | **level_5**                    | **level_6** | **level_7** | **level_8** | **family** | **genus** | **species** | **caab_code** | **count** |
 |--------------------------------|------------|-------------|-------------|------------------------|---------------------|----------------------------------|-------------|-------------|-------------|------------|-----------|-------------|---------------|-----------|
@@ -257,7 +257,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 
 **Table 7**. First four lines of an example Benthos Length file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
-<div class="table-scroll">
+<div class="table-scroll import-formats-wide">
 
 | **campaignid**                            | **opcode** | **caab_code** | **count** | **level_1** | **level_2** | **level_3**           | **level_4**        | **level_5**                    | **level_6** | **level_7** | **level_8** | **family** | **genus** | **species** | **length_mm** | **precision_mm** | **range_mm** | **rms_mm** |
 |---------------------------------------------|------------|---------------|-----------|-------------|-------------|------------------------|---------------------|----------------------------------|-------------|-------------|-------------|------------|-----------|-------------|---------------|------------------|--------------|------------|
@@ -278,7 +278,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 
 **Table 8**. First four lines of an example Benthos Relief file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
-<div class="table-scroll">
+<div class="table-scroll import-formats-wide">
 
 | **campaignid**                | **opcode** | **level_1** | **level_5** | **level_2** | **level_3**    | **level_4**     | **level_6** | **level_7** | **level_8** | **family** | **genus** | **species** | **caab_code** | **count** |
 |--------------------------------|------------|-------------|-------------|-------------|-----------------|------------------|-------------|-------------|-------------|------------|-----------|-------------|---------------|-----------|
