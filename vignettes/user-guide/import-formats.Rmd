@@ -11,7 +11,7 @@ output: html_document
 
 - Sample metadata must be provided as a comma-separated values (.csv) file.
 
-- We recommend naming the file using the format YYYY-MM_Project-name_Method_metadata.csv (e.g. 2026-06_Abrolhos_stereo-BRUVs_metadata.csv) to ensure compatibility with [<u>CheckEM</u>](https://globalarchivemanual.github.io/CheckEM/), although any file names are accepted.
+- We recommend naming the file using the format <span style="color:green; font-family: 'Roboto Mono', monospace;">- YYYY-MM_Project-name_Method_metadata.csv</span>  (e.g. <span style="color:green; font-family: 'Roboto Mono', monospace;">- 2026-06_Abrolhos_stereo-BRUVs_metadata.csv</span>) to ensure compatibility with [<u>CheckEM</u>](https://globalarchivemanual.github.io/CheckEM/), although any file names are accepted.
 
 - GlobalArchive requires specific columns (listed in Table 1), including defined formats and validation rules applied during import (see example in Table 1).
 
