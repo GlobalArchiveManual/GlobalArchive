@@ -95,7 +95,7 @@
 
 #### Scale
 
-- The geographic extent at which the [*Synthesis*](#synthesis/syntheses)
+- The geographic extent at which the [*Synthesis*](#synthesissyntheses)
   is relevant or intended to be applied
 
 - International, National, Regional or Local
@@ -134,13 +134,13 @@
 
 #### Synthesis
 
-- A [*Synthesis*](http://SynthesisSyntheses) is designed for sharing of
-  data from multiple [*Campaigns*](#campaign) for data analysis.
+- A [*Synthesis*](#synthesissyntheses) is designed for sharing of data
+  from multiple [*Campaigns*](#campaign) for data analysis.
 
-- The User who created the [*Synthesis*](#synthesisSyntheses) is the
-  Custodian of the [*Synthesis*](#Synthesissyntheses).
+- The User who created the [*Synthesis*](#synthesissyntheses) is the
+  Custodian of the [*Synthesis*](#synthesissyntheses).
 
-- Only the Custodian can share the [*Synthesis*](#SynthesisSyntheses)
+- Only the Custodian can share the [*Synthesis*](#synthesissyntheses)
   with other Users.
 
 #### User
