@@ -193,7 +193,7 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 - Recommended naming suffix: \_count.csv
 
 
-Table 4**. First four lines of an example Count file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
+**Table 4**. First four lines of an example Count file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
 <div class="table-scroll import-formats-wide">
 
