@@ -80,7 +80,7 @@ output: html_document
 
 #### Type
 
-- The category that best describes the primary context or intended use of the [<u>Synthesis</u>](#synthesis/syntheses).
+- The category that best describes the primary context or intended use of the [<u>Synthesis</u>](#synthesissyntheses).
 
 - Cultural, Academic, Industry or Management
 
@@ -102,11 +102,11 @@ output: html_document
 
 #### Synthesis
 
-- A [<u>Synthesis</u>](http://Synthesis/Syntheses) is designed for sharing of data from multiple [<u>Campaigns</u>](#campaign) for data analysis.
+- A [<u>Synthesis</u>](http://SynthesisSyntheses) is designed for sharing of data from multiple [<u>Campaigns</u>](#campaign) for data analysis.
 
-- The User who created the [<u>Synthesis</u>](#synthesis/Syntheses) is the Custodian of the [<u>Synthesis</u>](#Synthesis/Syntheses).
+- The User who created the [<u>Synthesis</u>](#synthesisSyntheses) is the Custodian of the [<u>Synthesis</u>](#Synthesissyntheses).
 
-- Only the Custodian can share the [<u>Synthesis</u>](#Synthesis/Syntheses) with other Users.
+- Only the Custodian can share the [<u>Synthesis</u>](#SynthesisSyntheses) with other Users.
 
 #### User
 
