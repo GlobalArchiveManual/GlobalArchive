@@ -23,10 +23,12 @@ site.
 
 We will collect personal identification information from you in a
 variety of ways, including when you register on the site and share
-[*Campaigns*](https://docs.google.com/document/d/1yU-zrEIwBN1B-w-rnwxRlZ8rEioJ37bxk7l5LkXhgoM/edit?userstoinvite=annika.leunig%40marineecology.io&sharingaction=manageaccess&role=reader&tab=t.0#heading=h.watfbpgrrufl),
-[*Projects*](#project) or [*Syntheses*](#synthesis) with other users.
-When registering users provide information public within their ORCID
-profile.
+[*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign),
+[*Projects*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
+or
+[*Syntheses*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
+with other users. When registering users provide information public
+within their ORCID profile.
 
 #### How we protect your information
 
