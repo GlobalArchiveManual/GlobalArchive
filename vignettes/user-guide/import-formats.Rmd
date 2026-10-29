@@ -2,6 +2,37 @@
 title: "Import Formats"
 output: html_document
 ---
+<style>
+  /* Space between sections */
+  main h3 {
+    margin-top: 3.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #dee2e6;
+  }
+
+  /* No divider or big gap for the first section right under the h2 */
+  main h2 + h3 {
+    margin-top: 1.5rem;
+    padding-top: 0;
+    border-top: none;
+  }
+
+  /* Smaller sub-heading (Metadata Examples) */
+  main h4 {
+    margin-top: 2rem;
+  }
+
+  /* Space around the tables */
+  .table-scroll,
+  main table.wide-table {
+    margin: 1.25rem 0 2rem;
+  }
+
+  /* Gap between a bullet list and the table caption that follows it */
+  main ul + p {
+    margin-top: 1.5rem;
+  }
+</style>
 
 ## Appendix 4 - Required format for upload and import
 
@@ -237,7 +268,7 @@ The sample metadata requirements for Annotations and [<u>Syntheses</u>](https://
 - Recommended naming suffix: \_length.csv
 
 
-**Table 5**. First four lines of an example Length file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
+**Table 6**. First four lines of an example Length file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
 <div class="table-scroll import-formats-wide">
 
@@ -289,7 +320,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 - Recommended naming suffix: \_benthos-count.csv
 
 
-**Table 6**. First four lines of an example Benthos Count file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
+**Table 8**. First four lines of an example Benthos Count file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
 <div class="table-scroll import-formats-wide">
 
@@ -312,7 +343,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 - Recommended naming suffix: \_benthos-length.csv
 
 
-**Table 7**. First four lines of an example Benthos Length file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
+**Table 9**. First four lines of an example Benthos Length file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
 <div class="table-scroll import-formats-wide">
 
@@ -335,7 +366,7 @@ The strongly recommended relief annotation method is to use a 5 x 4 grid composi
 - Recommended naming suffix: \_benthos-relief.csv
 
 
-**Table 8**. First four lines of an example Benthos Relief file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
+**Table 10**. First four lines of an example Benthos Relief file from two stereo-BRUVs [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) ready to be imported into a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses). The opcode column is used to define the [<u>sample</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
 
 <div class="table-scroll import-formats-wide">
 
