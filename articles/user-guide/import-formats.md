@@ -124,6 +124,32 @@ The opcode column is used to define the
 | 2025-02_Yamatji-Shallow-Bank_stereo-BRUVs | SB-BV-007 | Sparidae | Chrysophrys | auratus | 38 | AD | 37353001 |
 | 2025-02_Yamatji-Shallow-Bank_stereo-BRUVs | SB-BV-008 | Carangidae | Pseudocaranx | spp | 1 | AD | 37337924 |
 
+### Summary Count
+
+- A Summary Count file is required for [*Annotation
+  Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+  imports.
+
+- Summary Count file must be provided as a comma-separated values (.csv)
+  file.
+
+- Recommended naming suffix: \_summary-count.csv
+
+**Table 5.** First four lines of an example Summary Count file from a
+stereo-BRUVs
+[*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
+ready to be imported into an [*Annotation
+Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
+The opcode column is used to define the
+[*sample*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
+
+| **opcode** | **family** | **genus** | **species** | **count** | **stage** | **aphia_id** |
+|----|----|----|----|----|----|----|
+| npz6.10 | Carangidae | Seriola | dumerili | 5 | AD | 126816 |
+| npz6.10 | Monacanthidae | Nelusetta | ayraud | 1 | AD | 281648 |
+| SB-BV-007 | Sparidae | Chrysophrys | auratus | 38 | AD | 367239 |
+| SB-BV-008 | Labridae | Austrolabrus | maculatus | 1 | AD | 279842 |
+
 ### Length
 
 - A Length file is required for
@@ -148,6 +174,32 @@ The opcode column is used to define the
 | 2021-05_Abrolhos_stereo-BRUVs | npz6.22 | 37355015 | 1 | Mullidae | Parupeneus | spilurus | NA | NA | 2735.874 | 25.38756 | AD |
 | 2025-02_Yamatji-Shallow-Bank_stereo-BRUVs | SB-BV-051 | 37384923 | 1 | Labridae | Iniistius | spp | 131.1065 | 4.0386 | 2899.085 | 0.69228 | AD |
 | 2025-02_Yamatji-Shallow-Bank_stereo-BRUVs | SB-BV-022 | 37351009 | 1 | Lethrinidae | Lethrinus | miniatus | 335.4285 | 3.09009 | 1632.069 | 1.07326 | AD |
+
+### Summary Length
+
+- A Summary Length file is required for [*Annotation
+  Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+  imports.
+
+- Summary Length file must be provided as a comma-separated values
+  (.csv) file.
+
+- Recommended naming suffix: \_summary-length.csv
+
+**Table 7.** First four lines of an example Summary Length file from a
+stereo-BRUVs
+[*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
+ready to be imported into an [*Annotation
+Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set).
+The opcode column is used to define the
+[*sample*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#sample).
+
+| **opcode** | **family** | **genus** | **species** | **count** | **stage** | **aphia_id** | **length_mm** | **range_mm** | **rms_mm** | **precision_mm** |
+|----|----|----|----|----|----|----|----|----|----|----|
+| SB-BV-005 | Carangidae | Seriola | dumerili | 5 | AD | 126816 | 667.0459 |  |  |  |
+| SB-BV-006 | Monacanthidae | Nelusetta | ayraud | 1 | AD | 281648 | 567.40006 |  |  |  |
+| SB-BV-007 | Sparidae | Chrysophrys | auratus | 38 | AD | 367239 | 602.37309 |  |  |  |
+| SB-BV-008 | Labridae | Austrolabrus | maculatus | 1 | AD | 279842 | 68.30737 |  |  |  |
 
 ### Habitat
 
