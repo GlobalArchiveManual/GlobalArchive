@@ -160,7 +160,7 @@ The opcode column is used to define the
 
 - Recommended naming suffix: \_length.csv
 
-**Table 5**. First four lines of an example Length file from two
+**Table 6**. First four lines of an example Length file from two
 stereo-BRUVs
 [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
 ready to be imported into a
@@ -224,7 +224,7 @@ highly complex.
 
 - Recommended naming suffix: \_benthos-count.csv
 
-**Table 6**. First four lines of an example Benthos Count file from two
+**Table 8**. First four lines of an example Benthos Count file from two
 stereo-BRUVs
 [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
 ready to be imported into a
@@ -250,7 +250,7 @@ The opcode column is used to define the
 
 - Recommended naming suffix: \_benthos-length.csv
 
-**Table 7**. First four lines of an example Benthos Length file from two
+**Table 9**. First four lines of an example Benthos Length file from two
 stereo-BRUVs
 [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
 ready to be imported into a
@@ -276,8 +276,8 @@ The opcode column is used to define the
 
 - Recommended naming suffix: \_benthos-relief.csv
 
-**Table 8**. First four lines of an example Benthos Relief file from two
-stereo-BRUVs
+**Table 10**. First four lines of an example Benthos Relief file from
+two stereo-BRUVs
 [*Campaigns*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
 ready to be imported into a
 [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses).
