@@ -25,6 +25,10 @@
   but the original files uploaded are available for download. Coming
   soon…
 
+- For help formatting the `date_time` column correctly please refer to
+  the
+  [*guide*](https://docs.google.com/spreadsheets/d/1rWBzGQaiKstpeV7U51lsIutvRbJyzmwcTRBx2NFwwtc/edit?gid=722629725#gid=722629725).
+
 **Table 1.** Column and formatting requirements of the sample metadata
 file, note the tables described below are transposed (rows for columns)
 for formatting convenience.

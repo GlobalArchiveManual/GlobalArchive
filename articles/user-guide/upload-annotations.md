@@ -300,7 +300,7 @@ To import Annotations
 
   - 3 & 4. Select the taxonomic vocabulary used
 
-  - NOTE currently the only option is the *Australian Aquatic Fauna
+  - NOTE currently the only options are the *Australian Aquatic Fauna
     (CAAB+WORMS+FishBase)* and *AphiaID Taxonomy*.
 
   - This will add the vocabulary and refresh the screen, showing any
@@ -493,5 +493,3 @@ To import Annotations
   [length](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#length)
   data). However we strongly advise you to make these corrections to the
   EventMeasure annotation file (.EMObs).
-
-- Import of Generic Annotations is coming soon…
