@@ -308,6 +308,44 @@ To import Annotations
 
 ![](images/image8.png)
 
+### Importing Generic Annotations
+
+- 1\. Click *‘Add files to Annotation Set’*
+
+- 2\. Select the metadata (see [*example metadata
+  format*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html))
+  and the summary count and summary length files (see example format of
+  summary
+  [*count*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#summary-count)
+  and
+  [*length*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/import-formats.html#summary-length)
+  files) for the [*Annotation
+  Set*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-set)
+  from your local computer
+
+- Alternatively drag and drop the metadata and files into the *‘Add
+  files to Annotation Set’* section
+
+- 3\. Set the file type
+
+- Next
+
+  - 1\. Click the drop down arrow next to the imports to check the
+    status
+
+  - 2\. If there is a tick in the *Status* column, the files are ready
+
+  - 3 & 4. Select the taxonomic vocabulary used
+
+  - NOTE currently the only options are the *Australian Aquatic Fauna
+    (CAAB+WORMS+FishBase)* and *AphiaID Taxonomy*.
+
+  - This will add the vocabulary and refresh the screen, showing any
+    errors with the uploads
+
+  - Set the number column meaning to either counts of individuals or per
+    annotation numbering
+
 #### Check for Issues
 
 - Scroll to the *Issues* section.
