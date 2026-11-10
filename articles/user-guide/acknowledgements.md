@@ -6,7 +6,7 @@ GlobalArchive has been developed by a big team over many years and has
 benefited from the huge support of the Australian and global
 stereo-video community.
 
-### GlobalArchive relies on
+*GlobalArchive relies on*
 
 - UWA Library
 
@@ -21,13 +21,13 @@ stereo-video community.
 
 - SeaGIS
 
-### GlobalArchive has received support from
+*GlobalArchive has received support from*
 
 - Roger Proctor - IMOS
 
 - Julia Martin - ARDC
 
-### GlobalArchive has received funding from
+*GlobalArchive has received funding from*
 
 - UWA Oceans Institute
 
