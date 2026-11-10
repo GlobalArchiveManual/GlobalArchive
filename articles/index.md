@@ -31,3 +31,4 @@
 ### Policies
 
 - [Privacy](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/privacy.md):
+- [Acknowledgements](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/acknowledgements.md):

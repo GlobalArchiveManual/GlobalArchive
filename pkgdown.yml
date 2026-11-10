@@ -3,6 +3,7 @@ pkgdown: 2.2.1
 pkgdown_sha: ~
 articles:
   user-guide/about: user-guide/about.html
+  user-guide/acknowledgements: user-guide/acknowledgements.html
   user-guide/common-errors: user-guide/common-errors.html
   user-guide/create-account: user-guide/create-account.html
   user-guide/create-synthesis: user-guide/create-synthesis.html
@@ -14,7 +15,7 @@ articles:
   user-guide/privacy: user-guide/privacy.html
   user-guide/r-workflows: user-guide/r-workflows.html
   user-guide/upload-annotations: user-guide/upload-annotations.html
-last_built: 2026-10-29T06:32Z
+last_built: 2026-11-10T06:54Z
 urls:
   reference: https://globalarchivemanual.github.io/GlobalArchive/reference
   article: https://globalarchivemanual.github.io/GlobalArchive/articles
