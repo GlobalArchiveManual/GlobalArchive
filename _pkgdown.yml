@@ -4,7 +4,7 @@ template:
 
 navbar:
   structure:
-    left: [intro, start_here, upload_data, reference_docs, r_functions]
+    left: [intro, start_here, upload_data, reference_docs, r_functions, acknowledgements]
     right: [search, github]
 
   components:
@@ -44,6 +44,10 @@ navbar:
       text: "R Functions"
       href: reference/index.html
 
+    acknowledgements:
+      text: "Acknowledgements"
+      href: articles/user-guide/acknowledgements.html
+      
 articles:
   - title: "Start here"
     contents:
@@ -68,6 +72,7 @@ articles:
   - title: "Policies"
     contents:
       - user-guide/privacy
+      - user-guide/acknowledgements
 
 reference:
   - title: "GlobalArchive API"
