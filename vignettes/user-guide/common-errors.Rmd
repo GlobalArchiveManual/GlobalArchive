@@ -43,5 +43,3 @@ EXAMPLE 3:
 
 <img src="images/image23.png" style="width:6.26772in;height:0.70833in" />
 
-##  
-

@@ -3,8 +3,6 @@ title: "Create Synthesis"
 output: html_document
 ---
 
-# Creating a Synthesis
-
 ## What is a Synthesis?
 
 Curated summaries of count and length data for fish and benthic assemblages, made from annotation data, from GlobalArchive or other platforms, and from multiple times and locations can be brought together in a [<u>Synthesis</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses).
@@ -120,6 +118,4 @@ To delete multiple files
 - 2\. Once you are happy with your uploads click *‘Import Data’.*
 
 <img src="images/image18.png" style="width:6.52707in;height:4.21766in" />
-
-#  
 

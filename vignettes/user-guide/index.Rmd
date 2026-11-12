@@ -3,8 +3,6 @@ title: "GlobalArchive User Guide"
 output: html_document
 ---
 
-# GlobalArchive User Guide
-
 GlobalArchive supports the standardisation, secure archiving, discovery, sharing and synthesis of marine image-annotation data. Use this guide to create an account, upload annotation data organised into Projects and Campaigns, build curated Syntheses, and prepare data for access through GlobalArchive and its associated R package.
 
 <div class="alert alert-info" role="alert">

@@ -9,8 +9,6 @@ output: html_document
 
 All data uploaded to GlobalArchive is held securely within NeCTAR Cloud infrastructure within a secure industry standard database.
 
-#  
-
 ## Appendix 7 - Privacy Policy
 
 We take the privacy of our users very seriously at GlobalArchive. Most importantly, we do not and never will sell anyone's information to a third party.

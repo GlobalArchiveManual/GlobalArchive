@@ -11,8 +11,5 @@ The files generated in the [<u>EventMeasure Exports</u>](https://globalarchivema
 
 - This script can be used the combine the data of multiple [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) into 1 file<img src="images/image11.png" style="width:6.25in;height:0.76042in" />
 
-
 More handy R workflows coming soon…
-
-##  
 

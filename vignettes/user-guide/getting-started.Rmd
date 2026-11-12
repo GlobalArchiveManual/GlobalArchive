@@ -27,5 +27,3 @@ The manual is best used in an electronic form - as it uses links to linked suppo
 
 - [<u>Example - Synthesis metadata</u>](https://docs.google.com/spreadsheets/u/0/d/1gtMNcZZqBqG3ylUPD68KqdbANHUKfVJ0XXHdkySHXRk/edit)
 
-#  
-
