@@ -8,7 +8,7 @@ data is associated with
 that are organised within
 [*Projects*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project).
 
-## 1. First, create a [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project) and [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) to hold Annotations
+## First, create a [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project) and [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) to hold Annotations
 
 - Before uploading Annotations we must create a
   [*Campaign*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign)
@@ -37,7 +37,7 @@ that are organised within
 
 ![](images/image4.png)
 
-## 2. Create a [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
+## Create a [*Project*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
 
 - 1\. Fill out all the information fields - see Definitions
 
