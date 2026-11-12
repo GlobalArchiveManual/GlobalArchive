@@ -15,9 +15,6 @@ Useful links:
 
 Authors:
 
-- Brooke Gibbons <brooke.gibbons@uwa.edu.au>
-  ([ORCID](https://orcid.org/0000-0002-0628-7781))
-
 - Claude Spencer ([ORCID](https://orcid.org/0009-0005-6158-450X))
 
 - Nik Lieb <nik.lieb@uwa.edu.au>
