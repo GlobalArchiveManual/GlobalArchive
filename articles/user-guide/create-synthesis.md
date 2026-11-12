@@ -1,8 +1,6 @@
 # Create Synthesis
 
-## Creating a Synthesis
-
-### What is a Synthesis?
+## What is a Synthesis?
 
 Curated summaries of count and length data for fish and benthic
 assemblages, made from annotation data, from GlobalArchive or other
@@ -18,7 +16,7 @@ source for reporting.
 can be created via the CheckEM app or using [*example R
 code*](https://github.com/UWA-Marine-Ecology-Group-syntheses/template-synthesis).
 
-### Creating a Synthesis on GlobalArchive
+## Creating a Synthesis on GlobalArchive
 
 - To create a
   [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
@@ -68,7 +66,7 @@ code*](https://github.com/UWA-Marine-Ecology-Group-syntheses/template-synthesis)
     information are shown below.  
     ![](images/image31.png)
 
-### Importing data into a Synthesis
+## Importing data into a Synthesis
 
 - On the Import
   [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)
@@ -129,7 +127,7 @@ To delete multiple files
 
 ![](images/image35.png)
 
-#### Choosing a Vocabulary
+### Choosing a Vocabulary
 
 - Next select the taxonomic vocabulary used by using the drop down menu
 
@@ -140,7 +138,7 @@ To delete multiple files
 
 ![](images/image28.png)
 
-#### Check for Issues
+### Check for Issues
 
 - After adding files into a
   [*Synthesis*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses)*,*
@@ -184,5 +182,3 @@ To delete multiple files
 - 2\. Once you are happy with your uploads click *‘Import Data’.*
 
 ![](images/image18.png)
-
-## 

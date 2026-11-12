@@ -1,7 +1,5 @@
 # Create Account
 
-## Create an account
-
 1.  Navigate to [*GlobalArchive.org
     2.0*](https://dev.globalarchive.org/ui/)
 
@@ -25,9 +23,7 @@ GlobalArchive uses ORCID IDs for user authentication.
   - Click ‘*Forgot your password or ORCID ID?*’ and follow the
     instructions on the page.
 
-### 
-
-### Navigating the GlobalArchive landing page
+## Navigating the GlobalArchive landing page
 
 - To view data
   - Click *BROWSE* to view
@@ -47,5 +43,3 @@ GlobalArchive uses ORCID IDs for user authentication.
   [*Syntheses*](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#synthesissyntheses).
 
 ![](images/image16.png)
-
-## 

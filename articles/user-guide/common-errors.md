@@ -65,5 +65,3 @@ EXAMPLE 3:
   has already been recorded as unsuccessful, no action is required.
 
 ![](images/image23.png)
-
-## 

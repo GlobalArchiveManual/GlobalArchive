@@ -34,5 +34,3 @@ linked supporting Appendices and external resources.
 
 - [*Example - Synthesis
   metadata*](https://docs.google.com/spreadsheets/u/0/d/1gtMNcZZqBqG3ylUPD68KqdbANHUKfVJ0XXHdkySHXRk/edit)
-
-## 

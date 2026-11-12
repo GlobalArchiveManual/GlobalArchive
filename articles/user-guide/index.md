@@ -1,7 +1,5 @@
 # GlobalArchive User Guide
 
-## GlobalArchive User Guide
-
 GlobalArchive supports the standardisation, secure archiving, discovery,
 sharing and synthesis of marine image-annotation data. Use this guide to
 create an account, upload annotation data organised into Projects and
@@ -14,9 +12,9 @@ then follow [Create an
 account](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/create-account.md)
 before uploading data.
 
-### Choose a workflow
+## Choose a workflow
 
-#### Upload annotations
+### Upload annotations
 
 Create a Project, add a Campaign and its method metadata, create an
 Annotation Set, upload sample metadata and annotation files, and review
@@ -25,7 +23,7 @@ import issues.
 [Upload
 annotations](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/upload-annotations.md)
 
-#### Create a synthesis
+### Create a synthesis
 
 Combine curated count, length, metadata and benthic data from one or
 more Campaigns that use the same method, then prepare the Synthesis for
@@ -34,7 +32,7 @@ sharing, versioning and publication.
 [Create a
 synthesis](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/create-synthesis.md)
 
-### How GlobalArchive organises data
+## How GlobalArchive organises data
 
 ![Diagram showing the GlobalArchive hierarchy of Projects, Campaigns and
 Annotation Sets](images/image6.png)
@@ -49,7 +47,7 @@ Annotation Sets](images/image6.png)
 [Learn more about GlobalArchive and its data
 structure](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/about.md)
 
-### From annotations to a synthesis
+## From annotations to a synthesis
 
 ![Diagram showing how curated Campaign data are combined into a
 GlobalArchive Synthesis](images/image5.png)
@@ -58,7 +56,7 @@ A Synthesis brings together curated data from multiple Campaigns using
 the same method. Syntheses can contain sample metadata, fish count and
 length data, and benthic count, length or relief data.
 
-### Quick links
+## Quick links
 
 | I need to… | Go to |
 |----|----|
@@ -69,7 +67,7 @@ length data, and benthic count, length or relief data.
 | Find a brief answer or practical tip | [Frequently asked questions](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/faq.md) |
 | Review data handling and privacy information | [Privacy and data sharing](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/privacy.md) |
 
-### Before uploading data
+## Before uploading data
 
 For the smoothest import:
 

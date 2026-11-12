@@ -22,5 +22,3 @@ on GlobalArchive.
   into 1 file![](images/image11.png)
 
 More handy R workflows coming soon…
-
-## 
