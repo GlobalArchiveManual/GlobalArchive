@@ -20,7 +20,6 @@ Useful links:
 
 Authors:
 \itemize{
-  \item Brooke Gibbons \email{brooke.gibbons@uwa.edu.au} (\href{https://orcid.org/0000-0002-0628-7781}{ORCID})
   \item Claude Spencer (\href{https://orcid.org/0009-0005-6158-450X}{ORCID})
   \item Nik Lieb \email{nik.lieb@uwa.edu.au}
   \item Abbey Gibbons \email{abbey.gibbons@uwa.edu.au}
