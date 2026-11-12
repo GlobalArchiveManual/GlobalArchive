@@ -5,7 +5,7 @@ output: html_document
 
 For stereo-video image annotation, data can be directly ingested from common software (e.g. SeaGIS EventMeasure) or imported in generic format after Quality Control checks (see CheckEM). Schema controlled Annotation data is associated with [<u>Campaigns</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) that are organised within [<u>Projects</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project).
 
-## 1. First, create a [<u>Project</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project) and [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) to hold Annotations
+## First, create a [<u>Project</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project) and [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) to hold Annotations
 
 - Before uploading Annotations we must create a [<u>Campaign</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#campaign) within a [<u>Project</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
 
@@ -27,7 +27,7 @@ For stereo-video image annotation, data can be directly ingested from common sof
 
 <img src="images/image4.png" style="width:5.90626in;height:2.23656in" />
 
-## 2. Create a [<u>Project</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
+## Create a [<u>Project</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#project)
 
 - 1\. Fill out all the information fields - see Definitions
 
