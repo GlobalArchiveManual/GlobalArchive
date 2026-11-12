@@ -144,7 +144,7 @@ You can edit the Method Metadata fields later, which is useful when most but not
 - The predefined fields and values for [<u>Annotation Metadata</u>](https://globalarchivemanual.github.io/GlobalArchive/articles/user-guide/glossary.html#annotation-metadata) fields can be viewed [<u>here.</u>](https://docs.google.com/spreadsheets/d/1hPK8VFqNDw0bgT92T14BBHAqX6aykmGpcpDFiHo8LcU/edit?gid=1448516600#gid=1448516600) If you would like to add any further values, please contact the [<u>administrator</u>](mailto:tim.langlois@uwa.edu.au).
 
 > <img src="images/image10.png" style="width:6.26772in;height:8.66667in" /><img src="images/image17.png" style="width:3.69271in;height:4.0072in" />
->
+
 <div class="color:#E87722">
 **NOTE**
 
