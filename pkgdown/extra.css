@@ -2,3 +2,17 @@
 .navbar-brand + .nav-text {
   visibility: hidden;
 }
+
+/* Logo before the package name in the navbar */
+.navbar-brand {
+  display: inline-flex;
+  align-items: center;
+}
+.navbar-brand::before {
+  content: "";
+  display: inline-block;
+  width: 32px;
+  height: 37px;            /* hex logos are roughly 240x278 */
+  margin-right: 0.5rem;
+  background: url("logo.png") no-repeat center / contain;
+}
