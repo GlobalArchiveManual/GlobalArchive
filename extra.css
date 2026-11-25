@@ -1,0 +1,4 @@
+/* Hide the version number next to the package name in the navbar */
+.navbar-brand + .nav-text {
+  visibility: hidden;
+}
