@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# GlobalArchive User Manual and R Package
+# GlobalArchive User Manual and R Package <img src="man/figures/logo.svg" align="right" height="120" alt="" />
 
 Mono- and stereo-video imagery annotation provides useful information for the discovery, description and management of the marine environment (Harvey et al. 2021). This includes information about fish and shark assemblages, as well as benthic biota (Langlois et al. 2021; Williams et al. 2020).
 

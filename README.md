@@ -1,5 +1,5 @@
 
-# GlobalArchive User Manual and R Package
+# GlobalArchive User Manual and R Package <img src="man/figures/logo.svg" align="right" height="120" alt="" />
 
 Mono and stereo-video imagery annotation provides useful information
 for the discovery, description and management of the marine environment 

@@ -1,6 +1,16 @@
 url: https://globalarchivemanual.github.io/GlobalArchive/
 template:
   bootstrap: 5
+  bslib:
+    primary: "#1B5674"
+    link-color: "#1B5674"
+    body-color: "#1E2B33"
+    base_font: {google: "IBM Plex Sans"}
+    heading_font: {google: "Newsreader"}
+    code_font: {google: "IBM Plex Mono"}
+    font-size-base: 1rem
+    line-height-base: 1.65
+    border-radius: 0.2rem
 
 navbar:
   structure:
