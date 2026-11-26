@@ -1,18 +1,195 @@
-/* Hide the version number next to the package name in the navbar */
+/* ------------------------------------------------------------------
+   GlobalArchive site styles
+   Palette taken from the logo:
+     ink    #123B54   deep    #1B5674
+     ocean  #2E7E9E   shallow #A8D4E2
+   Fonts (set in _pkgdown.yml): Newsreader headings,
+   IBM Plex Sans body, IBM Plex Mono code.
+   ------------------------------------------------------------------ */
+
+:root {
+  --ga-ink: #123B54;
+  --ga-deep: #1B5674;
+  --ga-ocean: #2E7E9E;
+  --ga-shallow: #A8D4E2;
+  --ga-wash: #F3F8FA;
+  --ga-rule: #D9E4E9;
+}
+
+/* ---------- Navbar ---------------------------------------------- */
+
+/* Hide the version number next to the package name */
 .navbar-brand + .nav-text {
   visibility: hidden;
 }
 
-/* Logo before the package name in the navbar */
+.navbar {
+  background: #fff !important;
+  border-top: 4px solid var(--ga-ink);
+  border-bottom: 1px solid var(--ga-rule);
+  box-shadow: none;
+}
+
+/* Logo before the package name */
 .navbar-brand {
   display: inline-flex;
   align-items: center;
+  font-family: "Newsreader", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.35rem;
+  letter-spacing: -0.01em;
+  color: var(--ga-ink) !important;
 }
 .navbar-brand::before {
   content: "";
   display: inline-block;
-  width: 32px;
-  height: 37px;            /* hex logos are roughly 240x278 */
-  margin-right: 0.5rem;
-  background: url("logo.png") no-repeat center / contain;
+  width: 34px;
+  height: 34px;
+  margin-right: 0.55rem;
+  background: url("logo.svg") no-repeat center / contain;
+}
+
+.navbar .nav-link {
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--ga-ink) !important;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 0.3rem;
+}
+.navbar .nav-link:hover,
+.navbar .nav-item.active > .nav-link,
+.navbar .nav-link.active {
+  border-bottom-color: var(--ga-ocean);
+}
+
+.dropdown-menu {
+  border: 1px solid var(--ga-rule);
+  border-radius: 0.2rem;
+  box-shadow: 0 6px 18px rgba(18, 59, 84, 0.08);
+  font-size: 0.92rem;
+}
+.dropdown-item:hover,
+.dropdown-item:focus {
+  background: var(--ga-wash);
+  color: var(--ga-ink);
+}
+
+/* ---------- Headings -------------------------------------------- */
+
+h1, h2, h3, h4,
+.h1, .h2, .h3, .h4 {
+  color: var(--ga-ink);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.page-header h1,
+main > h1:first-child {
+  font-size: 2.4rem;
+  line-height: 1.15;
+}
+
+main h2 {
+  margin-top: 2.4rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--ga-rule);
+}
+
+main h3 {
+  margin-top: 1.8rem;
+}
+
+/* ---------- Body text and links --------------------------------- */
+
+main p,
+main li {
+  max-width: 70ch;
+}
+
+main a {
+  text-decoration: underline;
+  text-decoration-color: var(--ga-shallow);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+main a:hover {
+  color: var(--ga-ocean);
+  text-decoration-color: var(--ga-ocean);
+}
+
+/* Headline anchors shouldn't get the underline treatment */
+main a.anchor {
+  text-decoration: none;
+}
+
+/* ---------- Code ------------------------------------------------ */
+
+pre {
+  background: var(--ga-wash);
+  border: none;
+  border-left: 3px solid var(--ga-ocean);
+  border-radius: 0;
+  padding: 0.9rem 1rem;
+  font-size: 0.86rem;
+}
+
+:not(pre) > code {
+  background: var(--ga-wash);
+  color: var(--ga-ink);
+  padding: 0.1em 0.3em;
+  border-radius: 0.15rem;
+  font-size: 0.88em;
+}
+
+/* ---------- Tables ---------------------------------------------- */
+
+main table {
+  font-size: 0.92rem;
+}
+main table th {
+  border-bottom: 2px solid var(--ga-ink) !important;
+  color: var(--ga-ink);
+  font-weight: 600;
+}
+main table td {
+  border-color: var(--ga-rule) !important;
+}
+
+/* ---------- Images ---------------------------------------------- */
+
+main img:not(.logo) {
+  border: 1px solid var(--ga-rule);
+}
+
+/* ---------- Sidebar / table of contents ------------------------- */
+
+aside h2,
+aside .h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ga-ocean);
+  border: none;
+}
+
+#toc .nav-link {
+  font-size: 0.88rem;
+  color: #4A5B66;
+  border-left: 2px solid transparent;
+}
+#toc .nav-link.active,
+#toc .nav-link:hover {
+  color: var(--ga-ink);
+  background: none;
+  border-left-color: var(--ga-ocean);
+}
+
+/* ---------- Footer ---------------------------------------------- */
+
+footer {
+  border-top: 1px solid var(--ga-rule);
+  font-size: 0.82rem;
+  color: #5F6F79;
 }
